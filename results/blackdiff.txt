@@ -1,0 +1,249 @@
+POENTIAL CUTS
+Torment of Hailfire,0
+Imperial Seal,0
+Doom Whisperer,0
+Tree of Perdition,0
+Plaguecrafter,0
+Mindblade Render,0
+Razaketh, the Foulblooded,0
+Curtains' Call,1607.16
+Murderous Cut,2410.74
+Liliana of the Veil,2410.74
+Syphon Mind,2410.74
+Lord of the Void,3214.32
+Bitterblossom,6428.64
+Smothering Abomination,6428.64
+Noxious Gearhulk,6428.64
+Night's Whisper,6428.64
+Puppeteer Clique,8035.8
+Yawgmoth's Will,8035.8
+Necromancy,8035.8
+Massacre Wurm,8035.8
+Reassembling Skeleton,8035.8
+Army of the Damned,9642.96
+Crux of Fate,9642.96
+Life's Finale,9642.96
+Kokusho, the Evening Star,9642.96
+Archfiend of Depravity,9642.96
+Attrition,9642.96
+Ob Nixilis Reignited,9642.96
+Rise of the Dark Realms,9642.96
+Sorin Markov,9642.96
+Ob Nixilis, Unshackled,9642.96
+Go for the Throat,11250.12
+Sepulchral Primordial,11250.12
+Zulaport Cutthroat,11250.12
+Harvester of Souls,11250.12
+Sanguine Bond,11250.12
+Beacon of Unrest,12857.28
+Shriekmaw,12857.28
+In Garruk's Wake,12857.28
+Read the Bones,12857.28
+Exquisite Blood,12857.28
+Entomb,12857.28
+Phyrexian Reclamation,14464.44
+Reanimate,14464.44
+Bloodgift Demon,14464.44
+Living Death,16071.6
+Viscera Seer,16071.6
+Disciple of Bolas,16071.6
+Mikaeus, the Unhallowed,16071.6
+Black Sun's Zenith,17678.76
+Necropotence,17678.76
+Butcher of Malakir,17678.76
+Buried Alive,17678.76
+Victimize,19285.92
+Fleshbag Marauder,19285.92
+Damnation,19285.92
+Gray Merchant of Asphodel,19285.92
+Grave Pact,19285.92
+Rune-Scarred Demon,20893.08
+Animate Dead,20893.08
+Liliana Vess,20893.08
+Decree of Pain,20893.08
+Grave Titan,22500.24
+Toxic Deluge,22500.24
+Crypt Ghast,22500.24
+Hero's Downfall,22500.24
+Sheoldred, Whispering One,24107.4
+Sidisi, Undead Vizier,24107.4
+Erebos, God of the Dead,24107.4
+Dictate of Erebos,25714.56
+Whip of Erebos,28928.88
+Vampiric Tutor,32143.2
+Phyrexian Arena,49821.96
+Demonic Tutor,56250.6
+
+
+POTENTIAL ADDS
+Diabolic Tutor,43393.32
+Blood Artist,20893.08
+Exsanguinate,17678.76
+Dark Ritual,14464.44
+Increasing Ambition,12857.28
+Dread Return,12857.28
+Beseech the Queen,11250.12
+Black Market,11250.12
+Sudden Spoiling,11250.12
+Doom Blade,11250.12
+Tragic Slip,11250.12
+Liliana of the Dark Realms,11250.12
+Dark Petition,11250.12
+Merciless Executioner,9642.96
+Sign in Blood,9642.96
+Murder,9642.96
+Grave Betrayal,9642.96
+Palace Siege,9642.96
+Painful Quandary,8035.8
+Mutilate,8035.8
+Waste Not,8035.8
+Bloodchief Ascension,8035.8
+Vampire Nighthawk,8035.8
+Diabolic Revelation,8035.8
+Underworld Connections,8035.8
+Diabolic Intent,8035.8
+Profane Command,8035.8
+Grim Haruspex,8035.8
+Ghoulcaller Gisa,6428.64
+Geth, Lord of the Vault,6428.64
+Carrion Feeder,6428.64
+Nihil Spellbomb,6428.64
+Greed,6428.64
+Avatar of Woe,6428.64
+Magus of the Coffers,6428.64
+Liliana, Heretical Healer // Liliana, Defiant Necromancer,6428.64
+Falkenrath Noble,6428.64
+Sangromancer,6428.64
+Gravecrawler,6428.64
+Vault of Whispers,5625.06
+No Mercy,3214.32
+Nirkana Revenant,3214.32
+Endless Ranks of the Dead,3214.32
+Pontiff of Blight,3214.32
+Reaper from the Abyss,3214.32
+Cemetery Reaper,3214.32
+Sadistic Hypnotist,3214.32
+Drana, Liberator of Malakir,3214.32
+Ever After,2410.74
+Cabal Ritual,2410.74
+Malicious Affliction,2410.74
+Necropolis Regent,2410.74
+Leyline of the Void,2410.74
+Languish,2410.74
+Nighthowler,2410.74
+Underworld Dreams,2410.74
+Cranial Plating,2410.74
+Dark Deal,2410.74
+Lashwrithe,2410.74
+Megrim,2410.74
+Vampire Hexmage,2410.74
+Promise of Power,2410.74
+Dismember,2410.74
+Patriarch's Bidding,2410.74
+Barter in Blood,2410.74
+Rise from the Grave,2410.74
+Phyrexian Delver,2410.74
+Praetor's Grasp,2410.74
+Charcoal Diamond,2410.74
+Fate Unraveler,2410.74
+Ad Nauseam,2410.74
+Wound Reflection,2410.74
+Liliana's Caress,2410.74
+Unspeakable Symbol,1607.16
+Retribution of the Ancients,1607.16
+Call to the Grave,1607.16
+Wretched Confluence,1607.16
+Dread Summons,1607.16
+Agent of Erebos,1607.16
+Snuff Out,1607.16
+Contamination,1607.16
+Silence the Believers,1607.16
+Tainted Strike,1607.16
+Pestilence,1607.16
+Victim of Night,1607.16
+Altar's Reap,1607.16
+Archetype of Finality,1607.16
+Exhume,1607.16
+Deadly Tempest,1607.16
+Ultimate Price,1607.16
+Shred Memory,1607.16
+Zombie Apocalypse,1607.16
+Plague Wind,1607.16
+Ruinous Path,1607.16
+Dark Prophecy,1607.16
+Ancient Craving,1607.16
+Executioner's Capsule,1607.16
+Vampiric Rites,1607.16
+Necromantic Selection,1607.16
+Liliana, the Last Hope,1607.16
+Killing Wave,1607.16
+Duress,1607.16
+Oversold Cemetery,1607.16
+Ob Nixilis of the Black Oath,1607.16
+Dance of the Dead,1607.16
+Tendrils of Corruption,803.58
+Mind Slash,803.58
+Price of Knowledge,803.58
+Conspiracy,803.58
+Grisly Spectacle,803.58
+Leaden Myr,803.58
+Culling the Weak,803.58
+Corpse Dance,803.58
+Insidious Dreams,803.58
+Gravepurge,803.58
+Terror,803.58
+Empty the Pits,803.58
+Geth's Verdict,803.58
+Imp's Mischief,803.58
+Grim Affliction,803.58
+Doomwake Giant,803.58
+To the Slaughter,803.58
+Tribute to Hunger,803.58
+Liliana, Death's Majesty,803.58
+Tainted Remedy,803.58
+Phyresis,803.58
+Rend Flesh,803.58
+Skeletal Scrying,803.58
+Reckless Spite,803.58
+Grim Return,803.58
+Hex Parasite,803.58
+Rescue from the Underworld,803.58
+Crypt Incursion,803.58
+Elbrus, the Binding Blade // Withengar Unbound,803.58
+Polluted Bonds,803.58
+Fated Return,803.58
+Slaughter Pact,803.58
+Hatred,803.58
+Diabolic Edict,803.58
+Tainted Pact,803.58
+Wake the Dead,803.58
+Implement of Malice,0
+Altar of Shadows,0
+Moriok Replica,0
+Necrogen Spellbomb,0
+Salvage Slasher,0
+Onyx Goblet,0
+Augmenting Automaton,0
+Tribal Golem,0
+Skull of Ramos,0
+Vault Skirge,0
+Liliana, Defiant Necromancer // Liliana, Defiant Necromancer,0
+Immortal Coil,0
+Black Mana Battery,0
+Vector Asp,0
+Metalspinner's Puzzleknot,0
+Glaze Fiend,0
+Phyrexian Totem,0
+Pewter Golem,0
+Scepter of Fugue,0
+Skeleton Shard,0
+Nim Replica,0
+Trigon of Corruption,0
+Dross Ripper,0
+Mox Jet,0
+Salvage Titan,0
+Prakhata Pillar-Bug,0
+Scrapheap Scrounger,0
+Pith Driller,0
+Liliana, Death Wielder,0
+Pestilent Souleater,0

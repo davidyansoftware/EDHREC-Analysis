@@ -1,0 +1,343 @@
+Bladed Sentinel|0
+Titanium Golem|0
+Soldier Replica|0
+Adanto, the First Fort // Adanto, the First Fort|0.0001
+Pearl Shard|0.0001
+Healer's Headdress|0.0001
+Mox Pearl|0.0001
+Trigon of Mending|0.0002
+Aegis Automaton|0.0002
+Gideon, Battle-Forged // Gideon, Battle-Forged|0.0002
+Ajani, Wise Counselor|0.0003
+Glint Hawk Idol|0.0003
+Bastion Mastodon|0.0003
+Auriok Replica|0.0003
+Marble Chalice|0.0004
+White Mana Battery|0.0004
+Court Homunculus|0.0006
+Blinding Souleater|0.0007
+Abandoned Outpost|0.0008
+Karakas|0.0008
+Ajani, Adversary of Tyrants|0.001
+Cogworker's Puzzleknot|0.0011
+Rustic Clachan|0.0011
+Scepter of Dominance|0.0011
+Implement of Improvement|0.0012
+Metallurgeon|0.0013
+Sunbeam Spellbomb|0.0015
+Ruins of Trokair|0.0016
+Porcelain Legionnaire|0.0016
+Memorial to Glory|0.0017
+Tooth of Ramos|0.0017
+Cathedral Membrane|0.002
+Icatian Store|0.0021
+Origin Spellbomb|0.0021
+Thunder Totem|0.0021
+Leonin Sun Standard|0.0022
+Fountain of Cho|0.0023
+Nomad Stadium|0.0031
+Gideon, Martial Paragon|0.0032
+Remote Farm|0.0032
+Daru Encampment|0.0033
+Shefet Dunes|0.0038
+Peacewalker Colossus|0.0048
+To Arms!|0.0054
+Devouring Light|0.0057
+Settle the Wreckage|0.0059
+Argivian Find|0.006
+Celestial Flare|0.0061
+Orim's Chant|0.0062
+Safe Passage|0.0063
+Shelter|0.0064
+Pull from Eternity|0.0065
+Rally the Ancestors|0.0071
+Ajani's Presence|0.0071
+Erase|0.0072
+Banishing Stroke|0.0073
+Gideon of the Trials|0.0073
+Emerge Unscathed|0.0076
+Apostle's Blessing|0.0079
+Fate Forgotten|0.008
+Final Judgment|0.0083
+Otherworldly Journey|0.0084
+Alliance of Arms|0.0085
+Defy Death|0.0085
+Lapse of Certainty|0.0086
+Dawn to Dusk|0.0086
+Rebuff the Wicked|0.0087
+Reverse the Sands|0.009
+Holy Day|0.009
+Declaration in Stone|0.0096
+Sram's Expertise|0.01
+Riot Control|0.0101
+Harsh Mercy|0.0103
+Spectral Procession|0.0103
+Launch the Fleet|0.0105
+Desert of the True|0.0106
+Sejiri Steppe|0.0107
+Wing Shards|0.0107
+Entrapment Maneuver|0.0107
+Make a Stand|0.0107
+Congregate|0.0108
+Kirtar's Wrath|0.0109
+Second Sunrise|0.011
+Righteous Confluence|0.0112
+Benevolent Offering|0.0112
+Sandstone Bridge|0.0114
+Gods Willing|0.0122
+Conqueror's Pledge|0.0122
+Gold Myr|0.0123
+Devout Invocation|0.0124
+Sanctum Gargoyle|0.0126
+Forsake the Worldly|0.0127
+Retribution of the Meek|0.0127
+Angel's Grace|0.013
+Raise the Alarm|0.0132
+Deploy the Gatewatch|0.0135
+Sublime Exhalation|0.0135
+Kjeldoran Outpost|0.0136
+Deploy to the Front|0.014
+Mana Tithe|0.014
+Wave of Reckoning|0.0142
+Gideon, Champion of Justice|0.0146
+Retether|0.0147
+Forbidding Watchtower|0.0147
+Catastrophe|0.015
+Test of Endurance|0.015
+Retreat to Emeria|0.0153
+Blighted Steppe|0.0154
+Fated Retribution|0.0155
+Valorous Stance|0.0156
+Humility|0.0157
+Rule of Law|0.0167
+Glorious Anthem|0.0167
+Leyline of Sanctity|0.0173
+Karoo|0.0174
+Brave the Elements|0.0174
+Holy Mantle|0.0175
+Cataclysmic Gearhulk|0.0176
+Unexpectedly Absent|0.0178
+Quarantine Field|0.018
+Mobilization|0.0183
+Dawn Charm|0.0183
+Scourglass|0.0183
+Act of Authority|0.0183
+Reconnaissance|0.0184
+Collective Effort|0.0186
+Dispeller's Capsule|0.0186
+Cast Out|0.0188
+Arrest|0.0188
+Planar Outburst|0.0191
+Nomads' Assembly|0.0195
+Gideon Jura|0.0195
+Hyena Umbra|0.0196
+Beacon of Immortality|0.0196
+Tithe|0.0197
+Sage's Reverie|0.0197
+Ghostway|0.02
+Solitary Confinement|0.0203
+Call the Gatewatch|0.0203
+Flickerform|0.0204
+Hallowed Burial|0.0205
+Martyr's Bond|0.0206
+Approach of the Second Sun|0.0208
+Kabira Crossroads|0.0209
+Cataclysm|0.021
+Angelic Accord|0.0213
+Celestial Mantle|0.0214
+Angelic Destiny|0.0215
+Daybreak Coronet|0.0215
+Snow-Covered Plains|0.0218
+Descend upon the Sinful|0.0218
+Seal of Cleansing|0.022
+Pacifism|0.0222
+Gift of Estates|0.0224
+Banisher Priest|0.0224
+Faith's Fetters|0.0226
+Three Dreams|0.0226
+Herald of War|0.0226
+Stony Silence|0.0229
+Containment Priest|0.0229
+Felidar Guardian|0.0231
+Mirran Crusader|0.0232
+Duelist's Heritage|0.0234
+Ajani's Pridemate|0.0236
+Silence|0.0237
+Prison Term|0.0237
+Storm Herd|0.0237
+Honor of the Pure|0.0238
+Cloudshift|0.0239
+Oath of Gideon|0.0241
+Elspeth Tirel|0.0241
+Revoke Existence|0.0242
+Orzhov Advokist|0.0244
+Dusk|0.0244
+Ajani Goldmane|0.0246
+Aegis Angel|0.0246
+Hour of Revelation|0.0246
+Emeria Angel|0.0247
+Frontline Medic|0.0249
+Leonin Shikari|0.025
+Angel of Finality|0.0255
+Decree of Justice|0.0259
+Crib Swap|0.0259
+Hushwing Gryff|0.0259
+Yosei, the Morning Star|0.026
+Angel of Invention|0.0261
+Stasis Snare|0.0265
+Jazal Goldmane|0.0265
+Eiganjo Castle|0.0269
+Hour of Reckoning|0.027
+Wall of Reverence|0.027
+Comeuppance|0.0272
+Nevermore|0.0273
+Fell the Mighty|0.0274
+Thalia's Lancers|0.0274
+Greater Auramancy|0.0275
+Serra's Sanctum|0.0278
+Flagstones of Trokair|0.0281
+Always Watching|0.0281
+Adarkar Valkyrie|0.0284
+Gideon, Ally of Zendikar|0.0285
+Spectra Ward|0.0285
+Marble Diamond|0.0289
+Tragic Arrogance|0.029
+Nahiri, the Lithomancer|0.0293
+Heliod's Pilgrim|0.0294
+Resolute Archangel|0.0294
+Anafenza, Kin-Tree Spirit|0.03
+Flickerwisp|0.03
+Starfield of Nyx|0.0303
+Geist-Honored Monk|0.0305
+Journey to Nowhere|0.0308
+Winds of Rath|0.0309
+Shielded by Faith|0.0311
+Entreat the Angels|0.0313
+Ajani, Caller of the Pride|0.0313
+Thalia, Guardian of Thraben|0.0314
+Battle Mastery|0.0316
+Auramancer|0.0317
+Sram, Senior Edificer|0.0317
+Mikaeus, the Lunarch|0.0319
+Mass Calcify|0.0323
+Rootborn Defenses|0.0324
+Increasing Devotion|0.0325
+Blazing Archon|0.0327
+Dispatch|0.0328
+Abzan Falconer|0.0333
+End Hostilities|0.0333
+Indestructibility|0.0334
+Godsend|0.0335
+Bruna, the Fading Light|0.0339
+Plea for Guidance|0.034
+Angelic Arbiter|0.034
+Brimaz, King of Oreskos|0.0341
+Captain of the Watch|0.0342
+Unquestioned Authority|0.0343
+Gisela, the Broken Blade|0.0343
+Rhox Faithmender|0.0344
+Baneslayer Angel|0.0354
+Reya Dawnbringer|0.0355
+Secure the Wastes|0.0357
+Serra Avatar|0.036
+Sunscorch Regent|0.0362
+Replenish|0.0362
+Planar Cleansing|0.0364
+Citadel Siege|0.0365
+Faith's Reward|0.0365
+Akroma's Vengeance|0.037
+Drifting Meadow|0.0371
+Selfless Spirit|0.0373
+Angelic Skirmisher|0.0374
+Angel of Jubilation|0.0374
+Divine Reckoning|0.0374
+Akroma, Angel of Wrath|0.0385
+Brave the Sands|0.0386
+Bastion Protector|0.039
+Wall of Omens|0.0391
+Spirit Mantle|0.0391
+Disenchant|0.0397
+Archangel of Tithes|0.04
+Silverblade Paladin|0.0404
+Rest in Peace|0.0405
+Soul's Attendant|0.0405
+Odric, Master Tactician|0.0406
+Council's Judgment|0.0407
+Teferi's Protection|0.0408
+Eldrazi Displacer|0.041
+Ajani Steadfast|0.041
+Sunblast Angel|0.0416
+Dictate of Heliod|0.042
+Puresteel Paladin|0.0421
+White Sun's Zenith|0.0424
+Intangible Virtue|0.0425
+Ethereal Armor|0.0428
+Hero of Bladehold|0.0432
+Serra Ascendant|0.0457
+Restoration Angel|0.046
+Recruiter of the Guard|0.0461
+Marshal's Anthem|0.0462
+Spirit of the Labyrinth|0.0468
+Nyx-Fleece Ram|0.047
+New Benalia|0.0477
+Eidolon of Countless Battles|0.0478
+Suture Priest|0.0478
+Phyrexian Rebirth|0.0483
+Idyllic Tutor|0.0488
+Academy Rector|0.0489
+Archangel of Thune|0.0493
+Kor Haven|0.0496
+Sigil of the Empty Throne|0.0497
+Eerie Interlude|0.0507
+Mistveil Plains|0.0515
+Weathered Wayfarer|0.0519
+Sigarda's Aid|0.0525
+Stonehewer Giant|0.0529
+Norn's Annex|0.0532
+Odric, Lunarch Marshal|0.0535
+Grasp of Fate|0.0543
+Iona, Shield of Emeria|0.0547
+Karmic Justice|0.0552
+Armageddon|0.0557
+Linvala, Keeper of Silence|0.0562
+Ethersworn Canonist|0.0566
+Steelshaper's Gift|0.0568
+Rout|0.0572
+Eidolon of Rhetoric|0.0574
+Windbrisk Heights|0.0575
+Anointed Procession|0.0576
+Felidar Sovereign|0.0581
+Mesa Enchantress|0.0582
+Condemn|0.0586
+Knight of the White Orchid|0.0598
+Windborn Muse|0.0598
+Soul Warden|0.06
+Fiend Hunter|0.0606
+Spear of Heliod|0.0622
+Emeria Shepherd|0.0628
+Open the Vaults|0.0628
+Oblation|0.063
+Terminus|0.0632
+Aegis of the Gods|0.0634
+Gift of Immortality|0.0652
+Authority of the Consuls|0.0661
+Angel of Serenity|0.0663
+Luminarch Ascension|0.0664
+Darksteel Mutation|0.0668
+Heliod, God of the Sun|0.0681
+Aven Mindcensor|0.07
+Fumigate|0.0702
+Martial Coup|0.0713
+Banishing Light|0.0715
+Archetype of Courage|0.0716
+Open the Armory|0.0721
+Thalia, Heretic Cathar|0.0744
+Elspeth, Knight-Errant|0.0751
+Mirror Entity|0.0784
+Stoneforge Mystic|0.0869
+Emeria, the Sky Ruin|0.0873
+Reveillark|0.0894
+Land Tax|0.0921
+True Conviction|0.0938
+Vivid Meadow|0.0943
+Ancient Den|0.1404

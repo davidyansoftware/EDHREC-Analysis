@@ -1,0 +1,253 @@
+POENTIAL CUTS
+Whir of Invention,0
+Baral, Chief of Compliance,0
+Jace, Vryn's Prodigy,0
+Faerie Artisans,0
+Capture of Jingzhou,0
+Mission Briefing,0
+Temporal Manipulation,0
+Pull from Tomorrow,0
+Stunt Double,0
+Ancestral Vision,1577.06
+Compulsive Research,1577.06
+Gilded Drake,2365.59
+Azami, Lady of Scrolls,2365.59
+Treachery,2365.59
+Expropriate,2365.59
+Deepglow Skate,3154.12
+Frost Titan,3154.12
+Control Magic,3154.12
+Phantasmal Image,3154.12
+Thirst for Knowledge,3154.12
+Time Spiral,6308.24
+Disallow,7885.3
+Blatant Thievery,7885.3
+Jin-Gitaxias, Core Augur,7885.3
+Spelltwine,7885.3
+Mana Drain,7885.3
+Forbid,7885.3
+Palinchron,7885.3
+Jace Beleren,9462.36
+Tezzeret's Gambit,9462.36
+Teferi, Mage of Zhalfir,9462.36
+Diluvian Primordial,9462.36
+Bribery,9462.36
+Time Warp,9462.36
+Teferi, Temporal Archmage,9462.36
+Mystic Confluence,9462.36
+Venser, Shaper Savant,11039.42
+Arcanis the Omnipotent,11039.42
+Frantic Search,11039.42
+Pongify,11039.42
+Tamiyo, the Moon Sage,11039.42
+Evacuation,12616.48
+Curse of the Swine,12616.48
+Glen Elendra Archmage,12616.48
+Rapid Hybridization,12616.48
+Jace, the Mind Sculptor,12616.48
+Leyline of Anticipation,14193.54
+Archaeomancer,14193.54
+Snapcaster Mage,14193.54
+Force of Will,14193.54
+Dissipate,15770.6
+Capsize,15770.6
+Cryptic Command,15770.6
+Bident of Thassa,16559.13
+Windfall,17347.66
+Tezzeret the Seeker,18924.72
+Consecrated Sphinx,18924.72
+Dig Through Time,18924.72
+Negate,18924.72
+Deadeye Navigator,20501.78
+Treasure Cruise,20501.78
+Mulldrifter,20501.78
+Blue Sun's Zenith,22078.84
+Clever Impersonator,22078.84
+Swan Song,23655.9
+Preordain,23655.9
+Rite of Replication,28387.08
+Fact or Fiction,29964.14
+Ponder,29964.14
+Mystical Tutor,37849.44
+Phyrexian Metamorph,42580.62
+Brainstorm,42580.62
+Rhystic Study,42580.62
+Counterspell,59928.28
+Cyclonic Rift,80430.06
+
+
+POTENTIAL ADDS
+Propaganda,26810.02
+Thassa, God of the Sea,23655.9
+Arcane Denial,22078.84
+Fabricate,20501.78
+Trinket Mage,18924.72
+Rewind,15770.6
+Laboratory Maniac,14193.54
+Chasm Skulker,12616.48
+Pact of Negation,12616.48
+Muddle the Mixture,12616.48
+Etherium Sculptor,11827.95
+Hinder,11039.42
+Dissolve,11039.42
+Jace's Archivist,11039.42
+Mystic Remora,11039.42
+Reality Shift,11039.42
+Inexorable Tide,9462.36
+Merchant Scroll,9462.36
+Stroke of Genius,9462.36
+Spell Crumple,9462.36
+Future Sight,9462.36
+Omniscience,9462.36
+Impulse,9462.36
+Seat of the Synod,8673.83
+Cancel,7885.3
+Temporal Mastery,7885.3
+Stormtide Leviathan,7885.3
+Jace, Unraveler of Secrets,7885.3
+Dictate of Kruphix,7885.3
+Desertion,7885.3
+Gitaxian Probe,7885.3
+Mana Leak,7885.3
+Clone,7885.3
+High Tide,7885.3
+Serum Visions,7885.3
+Disdainful Stroke,7885.3
+Body Double,7885.3
+Devastation Tide,7885.3
+Remand,7885.3
+Peregrine Drake,7885.3
+Talrand, Sky Summoner,7885.3
+Dismiss,6308.24
+Sphinx of Uthuun,6308.24
+Mind's Dilation,6308.24
+Jace, Architect of Thought,6308.24
+Jace, Memory Adept,6308.24
+Master Transmuter,6308.24
+Spellskite,4731.18
+Inkwell Leviathan,4731.18
+Archetype of Imagination,4731.18
+Memnarch,4731.18
+Imprisoned in the Moon,3154.12
+Sky Diamond,3154.12
+Stolen Identity,3154.12
+Fog Bank,3154.12
+Aqueous Form,3154.12
+Turnabout,3154.12
+Temporal Trespass,3154.12
+Sphinx's Tutelage,3154.12
+Traumatize,3154.12
+Jace's Sanctum,3154.12
+Time Stretch,3154.12
+Time Reversal,3154.12
+Thrummingbird,3154.12
+Recurring Insight,3154.12
+Padeem, Consul of Innovation,3154.12
+Insidious Will,3154.12
+Phyrexian Ingester,3154.12
+Jace, Vryn's Prodigy // Jace, Telepath Unbound,3154.12
+Rooftop Storm,2365.59
+Day's Undoing,2365.59
+Paradox Haze,2365.59
+Dream Fracture,2365.59
+Part the Waterveil,2365.59
+Mind Over Matter,2365.59
+Thopter Spy Network,2365.59
+Well of Ideas,2365.59
+Enter the Infinite,2365.59
+Memory Lapse,2365.59
+Treasure Mage,2365.59
+Dispel,2365.59
+Intuition,2365.59
+Long-Term Plans,2365.59
+Master of Etherium,2365.59
+Copy Enchantment,2365.59
+Wonder,2365.59
+Dissipation Field,2365.59
+Metallurgic Summonings,2365.59
+Grand Architect,2365.59
+Chief Engineer,2365.59
+Monastery Siege,2365.59
+Twincast,2365.59
+Deep Analysis,2365.59
+Beacon of Tomorrows,2365.59
+Wash Out,2365.59
+Thada Adel, Acquisitor,2365.59
+Corrupted Conscience,2365.59
+Kami of the Crescent Moon,2365.59
+Training Grounds,2365.59
+Mnemonic Wall,2365.59
+Crystal Shard,2365.59
+Void Shatter,2365.59
+Mind's Desire,2365.59
+Collective Restraint,1577.06
+Silver Myr,1577.06
+Prosperity,1577.06
+Stasis,1577.06
+Perplexing Chimera,1577.06
+Coastal Piracy,1577.06
+Curiosity,1577.06
+Walk the Aeons,1577.06
+Arcane Melee,1577.06
+Personal Tutor,1577.06
+Freed from the Real,1577.06
+Minds Aglow,1577.06
+Divination,1577.06
+Telepathy,1577.06
+Sharding Sphinx,1577.06
+Whelming Wave,1577.06
+Crush of Tentacles,1577.06
+Diplomatic Immunity,1577.06
+Reshape,1577.06
+Thought Reflection,1577.06
+Intruder Alarm,1577.06
+Forced Fruition,1577.06
+Plea for Power,1577.06
+Call to Mind,1577.06
+Knowledge Exploitation,1577.06
+Pemmin's Aura,1577.06
+Saheeli's Artistry,1577.06
+Proteus Staff,1577.06
+Archmage Ascension,1577.06
+Clone Legion,1577.06
+Memory Erosion,1577.06
+Acquire,1577.06
+Copy Artifact,1577.06
+Torrential Gearhulk,1577.06
+Neurok Stealthsuit,788.53
+Jace, the Living Guildpact,788.53
+Hive Mind,788.53
+Mind Control,788.53
+Oath of Jace,788.53
+Mindlock Orb,0
+Eye of Ramos,0
+Chronatog Totem,0
+Steelclad Serpent,0
+Sphinx's Herald,0
+Watchful Automaton,0
+Aether Spellbomb,0
+Neurok Replica,0
+Glassblower's Puzzleknot,0
+Spined Thopter,0
+Faerie Mechanist,0
+Filigree Sages,0
+Sarcomite Myr,0
+Trespassing Souleater,0
+Blue Mana Battery,0
+Courier's Capsule,0
+Esperzoa,0
+Wizard Replica,0
+Gust-Skimmer,0
+Parasitic Strix,0
+Jace, Telepath Unbound // Jace, Telepath Unbound,0
+Implement of Examination,0
+Scepter of Insight,0
+Skill Borrower,0
+Flight Spellbomb,0
+Merchant's Dockhand,0
+Cumber Stone,0
+Dukhara Peafowl,0
+Cobalt Golem,0
+Soliton,0
+Mox Sapphire,0
+Trigon of Thought,0

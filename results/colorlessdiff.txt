@@ -1,0 +1,173 @@
+POENTIAL CUTS
+Conqueror's Flail,0
+Boros Signet,0
+Helm of the Host,0
+Azorius Signet,0
+Selesnya Signet,0
+Rakdos Signet,0
+Coldsteel Heart,0
+Izzet Signet,0
+Dragon's Hoard,0
+Gruul Signet,0
+Paradox Engine,0
+Oblivion Stone,0
+Mirage Mirror,0
+Meteor Golem,0
+Primal Amulet,0
+Simic Signet,0
+Pristine Talisman,0
+Dimir Signet,0
+Ichor Wellspring,0
+Quicksilver Amulet,0
+Phyrexian Processor,0
+Golgari Signet,0
+Orzhov Signet,0
+Mindslaver,0
+Precursor Golem,0
+Palladium Myr,3147.52
+Emrakul, the Promised End,3147.52
+Oblivion Sower,3147.52
+Sculpting Steel,4721.28
+Dreamstone Hedron,4721.28
+Winter Orb,4721.28
+Sword of Light and Shadow,4721.28
+Grim Monolith,4721.28
+Spine of Ish Sah,6295.04
+Coat of Arms,6295.04
+Sword of Fire and Ice,6295.04
+Rings of Brighthearth,6295.04
+Mind's Eye,6295.04
+Scroll Rack,6295.04
+Nim Deathmantle,6295.04
+Conjurer's Closet,6295.04
+Eldrazi Monument,6295.04
+Panharmonicon,6295.04
+Soul of New Phyrexia,9442.56
+It That Betrays,9442.56
+Void Winnower,9442.56
+Blightsteel Colossus,9442.56
+Akroma's Memorial,12590.08
+Artisan of Kozilek,12590.08
+Karn Liberated,12590.08
+Ulamog, the Infinite Gyre,12590.08
+All Is Dust,12590.08
+Ulamog, the Ceaseless Hunger,12590.08
+Kozilek, Butcher of Truth,15737.6
+Crucible of Worlds,15737.6
+Ugin, the Spirit Dragon,15737.6
+Strionic Resonator,15737.6
+Wayfarer's Bauble,15737.6
+Mimic Vat,15737.6
+Staff of Nin,15737.6
+Illusionist's Bracers,15737.6
+Coalition Relic,15737.6
+Trading Post,15737.6
+Darksteel Plate,18885.12
+Vedalken Orrery,18885.12
+Basalt Monolith,18885.12
+Loxodon Warhammer,18885.12
+Sword of the Animist,18885.12
+Everflowing Chalice,22032.64
+Sword of Feast and Famine,22032.64
+Hedron Archive,22032.64
+Myr Battlesphere,23606.4
+Worn Powerstone,25180.16
+Nevinyrral's Disk,25180.16
+Mana Vault,28327.68
+Duplicant,28327.68
+Whispersilk Cloak,28327.68
+Fellwar Stone,28327.68
+Mana Crypt,28327.68
+Expedition Map,31475.2
+Wurmcoil Engine,33048.96
+Steel Hellkite,33048.96
+Ashnod's Altar,34622.72
+Caged Sun,34622.72
+Mind Stone,34622.72
+Thought Vessel,37770.24
+Thran Dynamo,40917.76
+Sensei's Divining Top,47212.8
+Darksteel Ingot,50360.32
+Gilded Lotus,50360.32
+Commander's Sphere,53507.84
+Burnished Hart,61376.64
+Skullclamp,62950.4
+Chromatic Lantern,69245.44
+Swiftfoot Boots,91278.08
+Lightning Greaves,97573.12
+Solemn Simulacrum,122753.28
+Sol Ring,245506.56
+
+
+POTENTIAL ADDS
+Elixir of Immortality,22032.64
+Psychosis Crawler,18885.12
+Door of Destinies,12590.08
+Darksteel Citadel,11016.32
+Myr Retriever,9442.56
+Kuldotha Forgemaster,9442.56
+Platinum Angel,9442.56
+Gauntlet of Power,6295.04
+Extraplanar Lens,6295.04
+Howling Mine,6295.04
+Venser's Journal,6295.04
+Thousand-Year Elixir,6295.04
+Chrome Mox,6295.04
+Darksteel Forge,6295.04
+Fireshrieker,4721.28
+Mox Diamond,4721.28
+Aetherflux Reservoir,4721.28
+Alhammarret's Archive,4721.28
+Temple Bell,4721.28
+Unwinding Clock,4721.28
+Hangarback Walker,4721.28
+Altar of Dementia,4721.28
+Basilisk Collar,4721.28
+Voltaic Key,4721.28
+Sword of Vengeance,4721.28
+Crawlspace,4721.28
+Isochron Scepter,4721.28
+Lotus Petal,4721.28
+Triskelion,4721.28
+Urza's Incubator,4721.28
+Mox Opal,4721.28
+Shimmer Myr,4721.28
+Phyrexian Altar,4721.28
+Contagion Engine,4721.28
+Pathrazer of Ulamog,3147.52
+Junk Diver,3147.52
+Kozilek, the Great Distortion,3147.52
+Crystalline Crawler,3147.52
+Adaptive Automaton,3147.52
+Scour from Existence,3147.52
+Silent Arbiter,3147.52
+Pilgrim's Eye,3147.52
+Conduit of Ruin,3147.52
+Eldrazi Conscription,3147.52
+Thopter Assembly,3147.52
+Colossus of Akros,1573.76
+Stuffy Doll,1573.76
+Pili-Pala,1573.76
+Phyrexian Revoker,1573.76
+Not of This World,1573.76
+Walking Ballista,1573.76
+Bane of Bala Ged,1573.76
+Foundry Inspector,1573.76
+Darksteel Colossus,1573.76
+Ulamog's Crusher,1573.76
+Warping Wail,1573.76
+Platinum Emperion,1573.76
+Endbringer,1573.76
+Plague Myr,1573.76
+Metalworker,1573.76
+Desolation Twin,1573.76
+Pentavus,1573.76
+Titan's Presence,1573.76
+Skittering Invasion,0
+Natural Selection,0
+Raging River,0
+Sewers of Estark,0
+Gruesome Slaughter,0
+Camouflage,0
+Spatial Contortion,0
+False Orders,0

@@ -1,0 +1,173 @@
+Karn, Scion of Urza|0.0027
+Gruesome Slaughter|0.003
+Spatial Contortion|0.003
+Skittering Invasion|0.0047
+Titan's Presence|0.0063
+Not of This World|0.0067
+Warping Wail|0.0073
+Hope of Ghirapur|0.0074
+Akroan Horse|0.0074
+Walking Atlas|0.0075
+Karn, Silver Golem|0.0076
+Core Prowler|0.0076
+Scarecrone|0.0076
+Brass Squire|0.0079
+Filigree Familiar|0.0079
+Sandstone Oracle|0.0082
+Ornithopter|0.0084
+Breaker of Armies|0.0086
+Lodestone Golem|0.0088
+Endless One|0.0101
+Ulamog's Crusher|0.0103
+Platinum Emperion|0.0104
+Pili-Pala|0.0111
+Darksteel Colossus|0.0111
+Pentavus|0.0112
+Colossus of Akros|0.0113
+Metalworker|0.0118
+Metalwork Colossus|0.0121
+Endbringer|0.0122
+Stuffy Doll|0.0125
+Plague Myr|0.0127
+Bane of Bala Ged|0.0131
+Scrap Trawler|0.0138
+Phyrexian Revoker|0.015
+Pathrazer of Ulamog|0.015
+Desolation Twin|0.015
+Junk Diver|0.0154
+Crystalline Crawler|0.0165
+Eldrazi Conscription|0.0177
+Kozilek, the Great Distortion|0.0184
+Conduit of Ruin|0.0186
+Thopter Assembly|0.0187
+Oblivion Sower|0.0194
+Foundry Inspector|0.0195
+Metallic Mimic|0.0202
+Walking Ballista|0.0206
+Adaptive Automaton|0.0206
+Silent Arbiter|0.021
+Emrakul, the Promised End|0.0214
+Pilgrim's Eye|0.022
+Scour from Existence|0.023
+Palladium Myr|0.0235
+Triskelion|0.024
+Shimmer Myr|0.0246
+Kuldotha Forgemaster|0.025
+Astral Cornucopia|0.0251
+Well of Lost Dreams|0.0251
+Pristine Talisman|0.0251
+Argentum Armor|0.0254
+Jet Medallion|0.0257
+Coldsteel Heart|0.0261
+Terrain Generator|0.0262
+Vesuva|0.0264
+Sculpting Steel|0.0269
+Sword of Light and Shadow|0.0271
+Sapphire Medallion|0.0273
+Platinum Angel|0.0273
+Mox Opal|0.0279
+Fireshrieker|0.028
+Hangarback Walker|0.028
+Unwinding Clock|0.0284
+Altar of Dementia|0.0285
+Basilisk Collar|0.0285
+Crawlspace|0.0288
+Temple Bell|0.029
+Myr Retriever|0.0293
+Karn Liberated|0.0295
+Umezawa's Jitte|0.0297
+Lotus Petal|0.0309
+Winter Orb|0.0311
+It That Betrays|0.0311
+Sword of Vengeance|0.032
+Urza's Incubator|0.0321
+Contagion Engine|0.0321
+Void Winnower|0.0326
+Scroll Rack|0.0328
+Voltaic Key|0.0329
+Grim Monolith|0.0332
+Forbidden Orchard|0.0333
+All Is Dust|0.0336
+Sword of Fire and Ice|0.0341
+Dreamstone Hedron|0.0342
+Mind's Eye|0.0348
+Alhammarret's Archive|0.0352
+Spine of Ish Sah|0.0353
+Extraplanar Lens|0.0357
+Gauntlet of Power|0.0358
+Isochron Scepter|0.0359
+Nim Deathmantle|0.0359
+Mox Diamond|0.0365
+Rings of Brighthearth|0.0368
+Geier Reach Sanitarium|0.0373
+Akroma's Memorial|0.0376
+Howling Mine|0.0379
+Artisan of Kozilek|0.0381
+Ulamog, the Ceaseless Hunger|0.0384
+Eldrazi Monument|0.0386
+Venser's Journal|0.0391
+Darksteel Forge|0.0392
+Ulamog, the Infinite Gyre|0.0394
+Thousand-Year Elixir|0.0402
+Mimic Vat|0.0405
+Conjurer's Closet|0.0406
+Tectonic Edge|0.0422
+Trading Post|0.0423
+Illusionist's Bracers|0.0424
+Aetherflux Reservoir|0.0431
+Path of Ancestry|0.0433
+Paradox Engine|0.0434
+Kozilek, Butcher of Truth|0.0438
+Psychosis Crawler|0.0441
+Krosan Verge|0.0444
+Coalition Relic|0.0451
+Command Beacon|0.0454
+Staff of Nin|0.0454
+Transguild Promenade|0.046
+Myr Battlesphere|0.0461
+Coat of Arms|0.0461
+Chrome Mox|0.0469
+Ugin, the Spirit Dragon|0.047
+Crucible of Worlds|0.0473
+Ash Barrens|0.0478
+Strionic Resonator|0.0481
+Wasteland|0.0489
+Blightsteel Colossus|0.0512
+Door of Destinies|0.0517
+Soul of New Phyrexia|0.0518
+Thespian's Stage|0.0525
+Wayfarer's Bauble|0.0526
+Duplicant|0.0529
+Vedalken Orrery|0.0536
+Inventors' Fair|0.0545
+Wurmcoil Engine|0.0553
+Panharmonicon|0.0557
+Darksteel Plate|0.0558
+Basalt Monolith|0.0564
+Loxodon Warhammer|0.0568
+Rupture Spire|0.0578
+Sword of Feast and Famine|0.0647
+Elixir of Immortality|0.0667
+Sword of the Animist|0.0668
+Maze of Ith|0.0673
+Cavern of Souls|0.0695
+Steel Hellkite|0.07
+Homeward Path|0.07
+High Market|0.0705
+Arcane Lighthouse|0.0716
+Everflowing Chalice|0.0725
+Arid Mesa|0.0761
+Nevinyrral's Disk|0.0763
+Scalding Tarn|0.0771
+Buried Ruin|0.0787
+Hedron Archive|0.0803
+Ancient Tomb|0.0806
+Mana Vault|0.0842
+Whispersilk Cloak|0.0866
+Verdant Catacombs|0.0874
+Marsh Flats|0.0893
+Worn Powerstone|0.0898
+Expedition Map|0.0909
+Mana Crypt|0.0915
+Opal Palace|0.0943
+Darksteel Citadel|0.1254

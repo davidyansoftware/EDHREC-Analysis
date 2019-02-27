@@ -1,0 +1,338 @@
+Tezzeret's Gatebreaker|0
+Cobalt Golem|0
+Azcanta, the Sunken Ruin // Azcanta, the Sunken Ruin|0
+Steelclad Serpent|0.0001
+Gust-Skimmer|0.0001
+Mox Sapphire|0.0002
+Tezzeret, Cruel Machinist|0.0002
+Dukhara Peafowl|0.0002
+Neurok Replica|0.0003
+Spined Thopter|0.0003
+Jace, Telepath Unbound // Jace, Telepath Unbound|0.0003
+Watchful Automaton|0.0003
+Sphinx's Herald|0.0004
+Sarcomite Myr|0.0004
+Mu Yanling|0.0004
+Trespassing Souleater|0.0005
+Scepter of Insight|0.0005
+Trigon of Thought|0.0005
+Cumber Stone|0.0005
+Seafloor Debris|0.0006
+Blue Mana Battery|0.0007
+Soliton|0.0007
+Tolarian Academy|0.0007
+Esperzoa|0.0008
+Wizard Replica|0.0009
+Flight Spellbomb|0.0011
+Parasitic Strix|0.0012
+Tolaria|0.0013
+Skill Borrower|0.0016
+Implement of Examination|0.0017
+Glassblower's Puzzleknot|0.0017
+Will Kenrith|0.0017
+Chronatog Totem|0.0019
+Shelldock Isle|0.0019
+Jace, Ingenious Mind-Mage|0.002
+Teferi's Isle|0.0023
+Merchant's Dockhand|0.0024
+Saprazzan Cove|0.0027
+Sand Silos|0.0027
+Jace, Cunning Castaway|0.0028
+Svyelunite Temple|0.003
+Filigree Sages|0.003
+Eye of Ramos|0.003
+Faerie Mechanist|0.003
+Courier's Capsule|0.0033
+Tezzeret, Artifice Master|0.0037
+Ipnu Rivulet|0.0038
+Mindlock Orb|0.0041
+Soaring Seacliff|0.0045
+Memorial to Genius|0.0049
+Saprazzan Skerry|0.0049
+Moonring Island|0.0053
+Aether Spellbomb|0.0067
+Magosi, the Waterveil|0.007
+Oboro, Palace in the Clouds|0.0076
+Soldevi Excavations|0.0078
+Jace, the Living Guildpact|0.0079
+Neurok Stealthsuit|0.0097
+Increasing Confusion|0.0124
+Mystic Speculation|0.0125
+Retreat to Coralhelm|0.0125
+Thoughtcast|0.0126
+Power Artifact|0.0126
+Reality Acid|0.0127
+Mind Control|0.0127
+Jace's Erasure|0.0128
+Tunnel Vision|0.0128
+Foresee|0.0128
+Sleep|0.013
+Back to Basics|0.013
+Hive Mind|0.0132
+Careful Study|0.0134
+Concentrate|0.0134
+Call to the Kindred|0.0136
+Pull from the Deep|0.0137
+Temporal Manipulation|0.0138
+Transmute Artifact|0.014
+Followed Footsteps|0.0141
+Skyscribing|0.0141
+Skyline Cascade|0.0142
+Freed from the Real|0.0144
+Arcane Melee|0.0144
+Desert of the Mindful|0.0145
+Knowledge Exploitation|0.0148
+Proteus Staff|0.015
+Talent of the Telepath|0.0151
+Pemmin's Aura|0.0151
+Diplomatic Immunity|0.0152
+Collective Restraint|0.0153
+Oath of Jace|0.0155
+Faerie Trickery|0.016
+Stoic Rebuttal|0.0161
+Coral Atoll|0.0161
+Swarm Intelligence|0.0162
+Memory Erosion|0.0163
+Search for Azcanta // Azcanta, the Sunken Ruin|0.0164
+Jace's Ingenuity|0.0168
+Intruder Alarm|0.0169
+Overwhelming Denial|0.0173
+Plea for Power|0.0173
+Thought Scour|0.0175
+Silver Myr|0.0177
+Daze|0.0177
+Personal Tutor|0.018
+Mechanized Production|0.0182
+Telepathy|0.0183
+Unsubstantiate|0.0184
+Archmage Ascension|0.0186
+Crush of Tentacles|0.0188
+Rise from the Tides|0.0188
+Essence Scatter|0.0189
+Forced Fruition|0.019
+Timetwister|0.0191
+Opportunity|0.0191
+Stasis|0.0193
+Stonybrook Banneret|0.0194
+Divination|0.0195
+Whelming Wave|0.0195
+Time Stop|0.0195
+Sage of Fables|0.0196
+Condescend|0.0197
+Draining Whelk|0.0197
+Sower of Temptation|0.0197
+Sphinx of the Final Word|0.0198
+Acquire|0.0198
+Kindred Discovery|0.0199
+Distant Melody|0.0201
+Foil|0.0201
+Gush|0.0203
+Roil Elemental|0.0203
+Whirler Rogue|0.0207
+Invisible Stalker|0.0211
+Psychic Spiral|0.0212
+Copy Artifact|0.0215
+Thought Reflection|0.0215
+Baral's Expertise|0.0216
+Blighted Agent|0.0217
+Think Twice|0.0219
+Faerie Artisans|0.0219
+Forgotten Creation|0.0219
+Viral Drake|0.0219
+Fatestitcher|0.022
+Sakashima the Impostor|0.0221
+Keiga, the Tide Star|0.0223
+Commit|0.0223
+Flusterstorm|0.0223
+Faerie Conclave|0.0223
+Call to Mind|0.0224
+Polymorphist's Jest|0.0225
+Fuel for the Cause|0.0225
+Cloud of Faeries|0.0228
+Walk the Aeons|0.0229
+Sea Gate Oracle|0.0232
+Reshape|0.0232
+Blighted Cataract|0.0234
+Minds Aglow|0.0235
+Crystal Shard|0.0235
+Reins of Power|0.0236
+Chief Engineer|0.0237
+Aetherspouts|0.0237
+Delay|0.0238
+Scourge of Fleets|0.0239
+Prosperity|0.0239
+Mind Over Matter|0.0242
+Curiosity|0.0242
+Coastal Piracy|0.0244
+Wash Out|0.0245
+Compulsive Research|0.0246
+Well of Ideas|0.0247
+Telling Time|0.0247
+Undead Alchemist|0.0247
+Grand Architect|0.0248
+Treachery|0.025
+Cackling Counterpart|0.0251
+Treasure Mage|0.0252
+Ancestral Vision|0.0252
+Day's Undoing|0.0253
+Corrupted Conscience|0.0253
+Snap|0.0256
+Stifle|0.0257
+Dissipation Field|0.0258
+Stunt Double|0.0259
+Summary Dismissal|0.0261
+Beacon of Tomorrows|0.0261
+Paradox Haze|0.0262
+Cephalid Coliseum|0.0262
+Opt|0.0265
+Twincast|0.0268
+Copy Enchantment|0.027
+Saheeli's Artistry|0.0276
+Clone Legion|0.0277
+Dream Fracture|0.0281
+Misdirection|0.0282
+Snow-Covered Island|0.0287
+As Foretold|0.0287
+Kami of the Crescent Moon|0.0291
+Part the Waterveil|0.0294
+Remote Isle|0.0294
+Phyrexian Ingester|0.0295
+Rooftop Storm|0.0297
+Void Shatter|0.0298
+Gilded Drake|0.0301
+Frost Titan|0.0301
+Mental Misstep|0.031
+Ghostly Flicker|0.0316
+Long-Term Plans|0.0317
+Anticipate|0.0322
+Thada Adel, Acquisitor|0.0323
+Intuition|0.0328
+Into the Roil|0.0331
+Enter the Infinite|0.0333
+Memory Lapse|0.0333
+Mind's Desire|0.0334
+Chain of Vapor|0.0334
+Expropriate|0.0338
+Azami, Lady of Scrolls|0.0339
+Recurring Insight|0.0342
+Time Stretch|0.0344
+Wonder|0.0344
+Time Reversal|0.0344
+Deep Analysis|0.0345
+Training Grounds|0.0346
+Traumatize|0.0348
+Mnemonic Wall|0.0349
+Thopter Spy Network|0.0352
+Docent of Perfection // Final Iteration|0.0352
+Monastery Siege|0.0354
+Stolen Identity|0.0357
+Turnabout|0.0358
+Temporal Trespass|0.0359
+Aetherize|0.036
+Fog Bank|0.0362
+Dramatic Reversal|0.037
+Control Magic|0.0371
+Phantasmal Image|0.0375
+Sphinx of Uthuun|0.0379
+Jace, Architect of Thought|0.0379
+Thrummingbird|0.0379
+Spell Pierce|0.0381
+Metallurgic Summonings|0.0384
+Sphinx's Tutelage|0.0384
+Thirst for Knowledge|0.0385
+Jace, Memory Adept|0.0386
+Riptide Laboratory|0.0389
+Palinchron|0.0395
+Time Spiral|0.04
+Pull from Tomorrow|0.0402
+Dismiss|0.0406
+Aqueous Form|0.0412
+Deepglow Skate|0.0414
+Spell Crumple|0.0414
+Sky Diamond|0.042
+Perplexing Chimera|0.042
+Jace's Sanctum|0.0421
+Jace, Vryn's Prodigy // Jace, Telepath Unbound|0.0423
+Whir of Invention|0.0424
+Dispel|0.0426
+Trophy Mage|0.043
+Body Double|0.0432
+Sharding Sphinx|0.0436
+Padeem, Consul of Innovation|0.0442
+Baral, Chief of Compliance|0.0445
+Devastation Tide|0.0449
+Stormtide Leviathan|0.045
+Jace, Unraveler of Secrets|0.0452
+Clone|0.0454
+Master of Etherium|0.0456
+Blatant Thievery|0.0459
+Spellskite|0.0468
+Spelltwine|0.0469
+Disdainful Stroke|0.0471
+Mind's Dilation|0.0476
+Forbid|0.0477
+Teferi, Temporal Archmage|0.0479
+Minamo, School at Water's Edge|0.0486
+Hinder|0.0491
+Future Sight|0.0492
+Desertion|0.0495
+Jin-Gitaxias, Core Augur|0.0495
+Temporal Mastery|0.05
+Insidious Will|0.0502
+Imprisoned in the Moon|0.0505
+Dictate of Kruphix|0.0512
+Remand|0.0514
+Teferi, Mage of Zhalfir|0.0519
+Peregrine Drake|0.0522
+Talrand, Sky Summoner|0.0524
+Time Warp|0.0528
+Inexorable Tide|0.0528
+Bribery|0.0533
+Tezzeret's Gambit|0.0539
+Gitaxian Probe|0.054
+Cancel|0.0544
+Omniscience|0.0546
+Etherium Sculptor|0.0549
+High Tide|0.0557
+Torrential Gearhulk|0.0558
+Diluvian Primordial|0.0566
+Jace Beleren|0.057
+Tamiyo, the Moon Sage|0.0571
+Archetype of Imagination|0.0586
+Inkwell Leviathan|0.0588
+Mana Leak|0.0588
+Memnarch|0.0594
+Stroke of Genius|0.0598
+Serum Visions|0.0607
+Merchant Scroll|0.0627
+Mana Drain|0.0636
+Impulse|0.0665
+Pongify|0.0665
+Master Transmuter|0.0668
+Tolaria West|0.0677
+Glen Elendra Archmage|0.0694
+Dissolve|0.0712
+Mystic Confluence|0.0712
+Jace's Archivist|0.0714
+Arcanis the Omnipotent|0.0716
+Evacuation|0.0754
+Curse of the Swine|0.0757
+Pact of Negation|0.0759
+Venser, Shaper Savant|0.0764
+Chasm Skulker|0.0768
+Frantic Search|0.0778
+Jace, the Mind Sculptor|0.079
+Leyline of Anticipation|0.0826
+Bident of Thassa|0.083
+Lonely Sandbar|0.0832
+Muddle the Mixture|0.0837
+Reality Shift|0.0852
+Rapid Hybridization|0.0883
+Snapcaster Mage|0.0889
+Academy Ruins|0.0914
+Capsize|0.0917
+Thassa, God of the Sea|0.0919
+Dissipate|0.0926
+Force of Will|0.093
+Mystic Remora|0.0937
+Disallow|0.0941

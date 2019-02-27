@@ -1,0 +1,336 @@
+Pewter Golem|0
+Nim Replica|0
+Temple of Aclazotz // Temple of Aclazotz|0
+Tribal Golem|0.0001
+Dross Ripper|0.0001
+Salvage Slasher|0.0002
+Augmenting Automaton|0.0002
+Mox Jet|0.0002
+Onyx Goblet|0.0003
+Glaze Fiend|0.0004
+Prakhata Pillar-Bug|0.0004
+Liliana, the Necromancer|0.0004
+Immortal Coil|0.0005
+Black Mana Battery|0.0005
+Liliana, Defiant Necromancer // Liliana, Defiant Necromancer|0.0006
+Tomb of Urami|0.0006
+Salvage Titan|0.0007
+Implement of Malice|0.0008
+Bog Wreckage|0.0008
+Vraska, Scheming Gorgon|0.0009
+Pith Driller|0.0011
+Scepter of Fugue|0.0013
+Liliana, Untouched by Death|0.0015
+Metalspinner's Puzzleknot|0.0015
+Pestilent Souleater|0.0016
+Necrogen Spellbomb|0.0018
+Phyrexian Totem|0.0018
+Scrapheap Scrounger|0.002
+Howltooth Hollow|0.0021
+Subterranean Hangar|0.0023
+Vector Asp|0.0023
+Vault Skirge|0.0026
+Bottomless Vault|0.0026
+Altar of Shadows|0.0027
+Skull of Ramos|0.0027
+Skeleton Shard|0.0028
+Moriok Replica|0.004
+Trigon of Corruption|0.004
+Cabal Pit|0.0041
+Memorial to Folly|0.0044
+Ifnir Deadlands|0.0054
+Urborg|0.0056
+Spawning Pool|0.0057
+Undying Evil|0.0062
+Peat Bog|0.0062
+Withering Boon|0.0064
+Reckless Spite|0.0064
+Urge to Feed|0.0065
+Demonic Consultation|0.0066
+Grasp of Darkness|0.0067
+Liliana, Death Wielder|0.0067
+Succumb to Temptation|0.0067
+Death Denied|0.0069
+Gravepurge|0.0072
+Rend Flesh|0.0074
+Corpse Dance|0.0074
+Grim Return|0.0074
+Rain of Filth|0.0075
+Terror|0.0076
+Tribute to Hunger|0.0076
+Ebon Stronghold|0.0077
+To the Slaughter|0.0081
+Piranha Marsh|0.0087
+Imp's Mischief|0.0089
+Grim Guardian|0.009
+Necrogen Mists|0.0093
+Diabolic Servitude|0.0094
+Necromancer's Stockpile|0.0094
+Bottomless Pit|0.0096
+Geth's Verdict|0.0096
+Crumbling Ashes|0.0096
+Cabal Stronghold|0.0098
+Oath of Liliana|0.01
+Revel in Riches|0.01
+Shadows of the Past|0.01
+Culling the Weak|0.0101
+Rescue from the Underworld|0.0105
+Tainted Pact|0.0105
+Insidious Dreams|0.0106
+Oppression|0.0107
+Marchesa's Decree|0.0107
+Empty the Pits|0.0111
+Wake the Dead|0.0111
+Hatred|0.0117
+Blowfly Infestation|0.0119
+Temporal Extortion|0.0119
+Leaden Myr|0.012
+Bad Moon|0.012
+Retreat to Hagra|0.012
+Slaughter Pact|0.012
+Demonic Collusion|0.0121
+Hex Parasite|0.0121
+Everglades|0.0122
+Bubbling Muck|0.0123
+Consuming Vapors|0.0125
+Glistening Oil|0.0125
+Elbrus, the Binding Blade // Withengar Unbound|0.0125
+Nest of Scarabs|0.0125
+Smallpox|0.0126
+Fated Return|0.0127
+Mind Slash|0.0128
+Bitter Ordeal|0.0128
+Crypt Incursion|0.0128
+Graf Harvest|0.0129
+Desert of the Glorified|0.0129
+Bone Splinters|0.0131
+Behold the Beyond|0.0131
+Master of the Feast|0.0132
+Price of Knowledge|0.0133
+Tendrils of Corruption|0.0135
+Skeletal Scrying|0.0135
+Liliana's Mastery|0.0136
+Cover of Darkness|0.0136
+Tendrils of Agony|0.0137
+Grisly Spectacle|0.0138
+Polluted Bonds|0.0138
+Conspiracy|0.0141
+Ashes to Ashes|0.0143
+Doomsday|0.0143
+Doomwake Giant|0.0144
+Oversold Cemetery|0.0144
+Tainted Remedy|0.0148
+Fatal Push|0.0148
+Diabolic Edict|0.0148
+Retribution of the Ancients|0.0149
+Ultimate Price|0.0149
+Unspeakable Symbol|0.0151
+Pestilence|0.0151
+Shred Memory|0.0151
+Sever the Bloodline|0.0153
+Grim Tutor|0.0154
+Sadistic Sacrament|0.0158
+Unholy Grotto|0.016
+Kindred Dominance|0.0161
+Inquisition of Kozilek|0.0162
+Call to the Grave|0.0162
+Extinguish All Hope|0.0163
+Phyresis|0.0163
+Grim Affliction|0.0163
+Lake of the Dead|0.0165
+Agent of Erebos|0.0167
+Hymn to Tourach|0.0176
+Death Cloud|0.0178
+Dark Salvation|0.0182
+Curtains' Call|0.0182
+Silence the Believers|0.0184
+Stitch Together|0.0184
+Innocent Blood|0.0194
+Leechridden Swamp|0.0195
+Contamination|0.0195
+Killing Wave|0.0196
+Blood Tribute|0.0198
+Dark Prophecy|0.0199
+Archetype of Finality|0.0199
+Ob Nixilis of the Black Oath|0.0199
+Ancient Craving|0.0204
+Liliana, the Last Hope|0.0204
+Plague Wind|0.0207
+Snuff Out|0.0209
+Tainted Strike|0.0209
+Deadly Tempest|0.0211
+Exhume|0.0215
+Promise of Power|0.0216
+Victim of Night|0.0217
+Liliana, Death's Majesty|0.0218
+Nightscape Familiar|0.0219
+Zombie Master|0.0219
+Damnable Pact|0.022
+Altar's Reap|0.022
+Defiant Bloodlord|0.0221
+Executioner's Capsule|0.0221
+Anowon, the Ruin Sage|0.0221
+Ogre Slumlord|0.0221
+Ambition's Cost|0.0222
+Barter in Blood|0.0223
+Wound Reflection|0.0224
+Skirsdag High Priest|0.0224
+Zombie Apocalypse|0.0235
+Blighted Fen|0.0235
+Dance of the Dead|0.0237
+Thoughtseize|0.0238
+Dread Summons|0.0239
+Captivating Vampire|0.024
+Ruinous Path|0.0241
+Wretched Confluence|0.0243
+Snow-Covered Swamp|0.0246
+Rise from the Grave|0.0246
+Ever After|0.0249
+Leyline of the Void|0.0249
+Cranial Plating|0.025
+Demon of Dark Schemes|0.025
+Abhorrent Overlord|0.025
+Imperial Seal|0.0255
+Relentless Dead|0.0256
+Liliana's Reaver|0.0258
+Death Baron|0.0259
+Endrek Sahr, Master Breeder|0.026
+Languish|0.026
+Necromantic Selection|0.0262
+Vampiric Rites|0.0266
+Corpse Connoisseur|0.0267
+Ad Nauseam|0.0268
+Lord of the Undead|0.0272
+Necrotic Ooze|0.0273
+Graveborn Muse|0.0273
+Duress|0.0274
+Skithiryx, the Blight Dragon|0.0276
+Painful Truths|0.0276
+Dark Impostor|0.0278
+Underworld Dreams|0.0278
+Bloodghast|0.0281
+Liliana of the Veil|0.0284
+Megrim|0.0285
+Lashwrithe|0.0288
+Ophiomancer|0.0292
+Indulgent Tormentor|0.0293
+Liliana's Caress|0.0297
+Overseer of the Damned|0.0299
+Malicious Affliction|0.0299
+Patriarch's Bidding|0.0302
+Bloodline Keeper // Lord of Lineage|0.0304
+Stinkweed Imp|0.0309
+Kalitas, Traitor of Ghet|0.0309
+Dark Confidant|0.031
+Cryptbreaker|0.031
+Diregraf Colossus|0.0316
+Razaketh, the Foulblooded|0.0316
+Sadistic Hypnotist|0.0317
+Vampire Hexmage|0.0318
+Pawn of Ulamog|0.0318
+Necropolis Regent|0.0319
+Praetor's Grasp|0.0322
+Reaper from the Abyss|0.0325
+Dark Deal|0.0326
+Nirkana Revenant|0.0327
+Cabal Ritual|0.0328
+Undead Warchief|0.0331
+Drana, Kalastria Bloodchief|0.0332
+Pontiff of Blight|0.0332
+Tree of Perdition|0.0333
+Murderous Cut|0.0336
+Lord of the Void|0.0342
+No Mercy|0.0343
+Charcoal Diamond|0.0343
+Dakmor Salvage|0.0345
+Phyrexian Delver|0.0346
+Endless Ranks of the Dead|0.0357
+Cemetery Reaper|0.0363
+Dismember|0.0369
+Geth, Lord of the Vault|0.0371
+Bitterblossom|0.0375
+Diabolic Revelation|0.0377
+Ghoulcaller Gisa|0.0384
+Torment of Hailfire|0.0395
+Smothering Abomination|0.0395
+Carrion Feeder|0.0402
+Gravecrawler|0.0409
+Syphon Mind|0.0411
+Avatar of Woe|0.0415
+Nihil Spellbomb|0.0417
+Greed|0.042
+Gonti, Lord of Luxury|0.042
+Drana, Liberator of Malakir|0.0422
+Magus of the Coffers|0.0426
+Liliana, Heretical Healer // Liliana, Defiant Necromancer|0.0429
+Reassembling Skeleton|0.0435
+Necromancy|0.0438
+Yahenni, Undying Partisan|0.0438
+Painful Quandary|0.0447
+Shizo, Death's Storehouse|0.0453
+Polluted Mire|0.0454
+Falkenrath Noble|0.0456
+Mutilate|0.0464
+Profane Command|0.0466
+Massacre Wurm|0.0469
+Noxious Gearhulk|0.0479
+Yawgmoth's Will|0.0484
+Attrition|0.0487
+Waste Not|0.0488
+Sangromancer|0.0488
+Puppeteer Clique|0.0495
+Bloodchief Ascension|0.0496
+Phyrexian Tower|0.0506
+Life's Finale|0.0507
+Night's Whisper|0.0517
+Ob Nixilis, Unshackled|0.0524
+Diabolic Intent|0.0529
+Grim Haruspex|0.0536
+Sorin Markov|0.0543
+Rise of the Dark Realms|0.0555
+Mortuary Mire|0.0564
+Nighthowler|0.0566
+Grave Betrayal|0.0574
+Underworld Connections|0.0582
+Archfiend of Depravity|0.0592
+Kokusho, the Evening Star|0.0596
+Sudden Spoiling|0.0605
+Palace Siege|0.0605
+Fate Unraveler|0.0606
+Vampire Nighthawk|0.0607
+Liliana of the Dark Realms|0.0607
+Crypt of Agadeem|0.0607
+Army of the Damned|0.0613
+Sign in Blood|0.0623
+Merciless Executioner|0.0628
+Volrath's Stronghold|0.0635
+Murder|0.0655
+Tragic Slip|0.0656
+Ob Nixilis Reignited|0.0658
+Beseech the Queen|0.0662
+Beacon of Unrest|0.067
+Increasing Ambition|0.0677
+Doom Blade|0.0691
+Sepulchral Primordial|0.0693
+Crux of Fate|0.0696
+Exquisite Blood|0.0719
+Harvester of Souls|0.072
+Black Market|0.0742
+Dread Return|0.0758
+Sanguine Bond|0.0765
+Westvale Abbey // Ormendahl, Profane Prince|0.0775
+Entomb|0.0776
+Dark Petition|0.0782
+Bloodgift Demon|0.0805
+In Garruk's Wake|0.0821
+Shriekmaw|0.0837
+Mikaeus, the Unhallowed|0.0853
+Phyrexian Reclamation|0.0856
+Zulaport Cutthroat|0.0861
+Reanimate|0.0867
+Disciple of Bolas|0.0882
+Go for the Throat|0.0884
+Erebos, God of the Dead|0.0933
+Living Death|0.0937
+Dark Ritual|0.0937
+Vault of Whispers|0.126

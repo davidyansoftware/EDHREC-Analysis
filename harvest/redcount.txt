@@ -1,0 +1,360 @@
+Spitfire Bastion // Spitfire Bastion|0
+Rage Extractor|0.0001
+Saberclaw Golem|0.0001
+Granite Shard|0.0001
+Coal Golem|0.0001
+Spin Engine|0.0001
+Weldfast Monitor|0.0002
+Mox Ruby|0.0002
+Chandra, Roaring Flame // Chandra, Roaring Flame|0.0002
+Fireforger's Puzzleknot|0.0002
+Trigon of Rage|0.0002
+Vulshok Replica|0.0002
+Hematite Golem|0.0002
+Sparring Collar|0.0003
+Slash Panther|0.0003
+Welder Automaton|0.0004
+Ravaged Highlands|0.0005
+Chandra, Bold Pyromancer|0.0007
+Red Mana Battery|0.0007
+Goblin Replica|0.0008
+Immolating Souleater|0.0008
+Rowan Kenrith|0.0009
+Sarkhan, Dragonsoul|0.0009
+Balduvian Trading Post|0.0015
+Implement of Combustion|0.0015
+Keldon Necropolis|0.0017
+Memorial to War|0.0018
+Mercadian Bazaar|0.0019
+Sarkhan, Fireblood|0.0019
+Panic Spellbomb|0.0021
+Foriysian Totem|0.0022
+Dwarven Hold|0.0023
+Keldon Megaliths|0.0029
+Hellion Crucible|0.0031
+Chandra, Pyrogenius|0.0032
+Hammerheim|0.0033
+Blighted Gorge|0.0033
+Barbarian Ring|0.0035
+Bomat Courier|0.0035
+Sandstone Needle|0.0037
+Heart of Ramos|0.0038
+Dwarven Ruins|0.0042
+Jaya Ballard|0.0045
+Smoldering Spires|0.0048
+Pyrite Spellbomb|0.005
+Goblin Burrows|0.0053
+Ramunap Ruins|0.0054
+Rush of Adrenaline|0.006
+Into the Core|0.0061
+Teetering Peaks|0.0061
+Fall of the Hammer|0.0061
+Volcanic Fallout|0.0062
+Impact Resonance|0.0062
+Stun|0.0063
+Accelerate|0.0064
+Final Fortune|0.0066
+Balduvian Rage|0.0066
+Built to Smash|0.0067
+Timecrafting|0.007
+Fault Line|0.0073
+Quest for Pure Flame|0.0073
+Radiate|0.0073
+Brute Strength|0.0075
+Frenzied Fugue|0.0076
+Madblind Mountain|0.0076
+Divergent Transformations|0.0077
+Curse of Stalked Prey|0.0078
+Elemental Mastery|0.0079
+Gauntlet of Might|0.0081
+Shock|0.0082
+Goblin Warrens|0.0084
+Spellshock|0.0084
+Pia's Revolution|0.0085
+Incinerate|0.0085
+Pandemonium|0.0087
+Vow of Lightning|0.0089
+Tibalt, the Fiend-Blooded|0.009
+Chandra Nalaar|0.009
+Bitter Feud|0.0092
+Soul's Fire|0.0094
+Madcap Skills|0.0094
+Leyline of Punishment|0.0094
+Massive Raid|0.0095
+Looming Spires|0.0095
+Commune with Lava|0.0095
+Burning Earth|0.0096
+Smash to Smithereens|0.0096
+Shivan Gorge|0.0096
+Crimson Wisps|0.0103
+Planar Chaos|0.0104
+Kari Zev's Expertise|0.0105
+Subterranean Tremors|0.0106
+Molten Birth|0.0106
+Fury Charm|0.0107
+Ghitu Encampment|0.0108
+Mass Hysteria|0.0108
+Wild Evocation|0.0108
+Magma Jet|0.0109
+Dragonstorm|0.011
+Reckless Charge|0.0111
+Browbeat|0.0113
+In the Web of War|0.0113
+Goblin War Drums|0.0114
+Grip of Chaos|0.0114
+Act of Aggression|0.0114
+Brute Force|0.0114
+Abrade|0.0117
+Thieves' Auction|0.012
+Smoke|0.012
+Ignite Memories|0.012
+Arcbond|0.0121
+Kindred Charge|0.0121
+Scrambleverse|0.0122
+Chandra Ablaze|0.0124
+Goblinslide|0.0124
+Shattering Pulse|0.0126
+Goblin Assault|0.0126
+Rage Reflection|0.0126
+Mogg Infestation|0.0126
+Goblin War Strike|0.0127
+Boggart Shenanigans|0.0127
+Mass Mutiny|0.0127
+Bosh, Iron Golem|0.0129
+Twinflame|0.013
+Quest for the Goblin Lord|0.0131
+Wildfire|0.0131
+Confusion in the Ranks|0.0131
+Stensia Masquerade|0.0131
+Blood Mist|0.0132
+Fateful Showdown|0.0134
+Lightning Strike|0.0134
+Rolling Earthquake|0.0135
+Goblin Offensive|0.0136
+Dormant Volcano|0.0136
+Braid of Fire|0.0139
+Wild Guess|0.0142
+Titan's Strength|0.0142
+Pyretic Ritual|0.0144
+Insult|0.0147
+Hour of Devastation|0.0147
+By Force|0.0147
+Sarkhan, the Dragonspeaker|0.015
+Curse of Opulence|0.015
+Grapeshot|0.0151
+Desperate Ritual|0.0151
+Descent of the Dragons|0.0153
+Desert of the Fervent|0.0154
+Moltensteel Dragon|0.0154
+Fork|0.0154
+Burn from Within|0.0155
+Mindmoil|0.0157
+Burn at the Stake|0.0159
+Disrupt Decorum|0.0159
+Chandra, the Firebrand|0.016
+Repercussion|0.0161
+Collective Defiance|0.0163
+Goblin Ringleader|0.0164
+Moonveil Dragon|0.0164
+Grab the Reins|0.0164
+Act of Treason|0.0164
+Goblin Chirurgeon|0.0164
+Expedite|0.0164
+Goblin Piledriver|0.0166
+Squee, Goblin Nabob|0.0166
+Molten Disaster|0.0168
+Fury of the Horde|0.017
+Harsh Mentor|0.0172
+Treasonous Ogre|0.0172
+Breath of Fury|0.0172
+Hellkite Igniter|0.0173
+Runehorn Hellkite|0.0173
+Fall of the Titans|0.0174
+Etali, Primal Storm|0.0174
+Curse of Bloodletting|0.0174
+Devil's Play|0.0176
+Anger of the Gods|0.0176
+Flameblast Dragon|0.0177
+Slobad, Goblin Tinkerer|0.0178
+Chandra, Pyromaster|0.018
+Where Ancients Tread|0.0182
+Howl of the Horde|0.0182
+Brightstone Ritual|0.0182
+Viashino Heretic|0.0183
+War's Toll|0.0183
+Mindclaw Shaman|0.0184
+Goblin Rally|0.0184
+Flametongue Kavu|0.0185
+Knollspine Dragon|0.019
+Rakish Heir|0.0192
+Manabarbs|0.0192
+Fling|0.0193
+Flayer of the Hatebound|0.0195
+Shattering Spree|0.0195
+Neheb, the Eternal|0.0196
+Price of Progress|0.0199
+Mob Rule|0.02
+Decree of Annihilation|0.0201
+Magus of the Moon|0.0203
+Mana Flare|0.0204
+Warp World|0.0204
+Combat Celebrant|0.0204
+Sarkhan's Triumph|0.0205
+Ingot Chewer|0.0206
+Skyline Despot|0.0206
+Bonfire of the Damned|0.0209
+Thundermaw Hellkite|0.021
+Battle Hymn|0.0211
+Stormbreath Dragon|0.0213
+Splinter Twin|0.0213
+Thunderbreak Regent|0.0217
+Obliterate|0.0217
+Jokulhaups|0.0217
+Ryusei, the Falling Star|0.0222
+Magmaquake|0.0223
+Hellrider|0.0224
+Word of Seizing|0.0224
+Goblin Recruiter|0.0224
+Hoarding Dragon|0.0225
+Volcanic Offering|0.0225
+Sulfuric Vortex|0.0228
+Goblin King|0.0229
+Sneak Attack|0.023
+Pyrohemia|0.0233
+Red Sun's Zenith|0.0234
+Sunbird's Invocation|0.0235
+Fireball|0.0237
+Hoard-Smelter Dragon|0.0238
+Hamletback Goliath|0.024
+Red Elemental Blast|0.024
+Temur Battle Rage|0.024
+Snow-Covered Mountain|0.0245
+Dragonlord's Servant|0.0245
+Rite of the Raging Storm|0.0246
+Goblin Chieftain|0.0247
+Humble Defector|0.0247
+Pia and Kiran Nalaar|0.0248
+Fiery Confluence|0.0248
+Goblin Rabblemaster|0.0252
+Shinka, the Bloodsoaked Keep|0.0252
+Vicious Shadows|0.0259
+Malignus|0.0262
+Skirk Prospector|0.0263
+Winds of Change|0.0264
+Koth of the Hammer|0.0267
+Chancellor of the Forge|0.0267
+Legion Loyalist|0.0268
+Crucible of Fire|0.0269
+Grenzo, Havoc Raiser|0.0269
+Ruination|0.027
+Price of Glory|0.0272
+Dragonspeaker Shaman|0.0274
+Trash for Treasure|0.0274
+Goblin Warchief|0.0275
+Shared Animosity|0.0277
+Seize the Day|0.0278
+Goblin Sharpshooter|0.0278
+Akroma, Angel of Fury|0.0284
+Mana Echoes|0.0288
+Empty the Warrens|0.0289
+Scourge of Valkas|0.0293
+Pyroblast|0.0298
+Savage Beating|0.0304
+Flameshadow Conjuring|0.0306
+Relentless Assault|0.0306
+Berserkers' Onslaught|0.0313
+World at War|0.0319
+Banefire|0.032
+Godo, Bandit Warlord|0.0323
+Possibility Storm|0.0329
+Stalking Vengeance|0.0333
+Molten Psyche|0.0334
+Furnace of Rath|0.0336
+Seething Song|0.0337
+Heartless Hidetsugu|0.0338
+Goblin Matron|0.0338
+Krenko's Command|0.0338
+Incendiary Command|0.0344
+Mogg War Marshal|0.0353
+Pyromancer's Goggles|0.0355
+Hordeling Outburst|0.0356
+Molten Primordial|0.0356
+Bogardan Hellkite|0.0359
+Tyrant's Familiar|0.0363
+Dragon Fodder|0.0367
+Scrap Mastery|0.0367
+Scourge of the Throne|0.037
+Starstorm|0.0373
+Volcanic Vision|0.0374
+Earthquake|0.0374
+Taurean Mauler|0.0376
+Mana Geyser|0.0377
+Stranglehold|0.0383
+Cathartic Reunion|0.0384
+Krenko, Mob Boss|0.0386
+Hanweir Garrison|0.0387
+Archetype of Aggression|0.0388
+Tempt with Vengeance|0.0388
+Increasing Vengeance|0.0396
+Chandra, Flamecaller|0.0404
+Reiterate|0.0408
+Feldon of the Third Path|0.0408
+Smoldering Crater|0.0415
+Mizzix's Mastery|0.0417
+Flamekin Village|0.0421
+Chain Reaction|0.0422
+Dragon Tempest|0.0424
+Young Pyromancer|0.0427
+Chandra, Torch of Defiance|0.0428
+Dragonmaster Outcast|0.0429
+Blood Moon|0.0435
+Beetleback Chief|0.0441
+Aggravated Assault|0.0442
+Chandra's Ignition|0.0444
+Outpost Siege|0.0453
+Tormenting Voice|0.0455
+Magus of the Wheel|0.0474
+Gratuitous Violence|0.0479
+Combustible Gearhulk|0.048
+Wheel of Fate|0.0481
+Fervor|0.0488
+Kazuul, Tyrant of the Cliffs|0.0498
+Dragon Mage|0.0507
+Dualcaster Mage|0.0513
+Hellkite Charger|0.0529
+Urabrask the Hidden|0.0532
+Charmbreaker Devils|0.0532
+Hanweir Battlements|0.0539
+Fire Diamond|0.054
+Iron Myr|0.0546
+Guttersnipe|0.0551
+Dictate of the Twin Gods|0.0558
+Kher Keep|0.0578
+Mizzium Mortars|0.0588
+Past in Flames|0.0596
+Utvara Hellkite|0.0606
+Siege-Gang Commander|0.0615
+Valakut, the Molten Pinnacle|0.0616
+Goblin Welder|0.063
+Wild Ricochet|0.063
+Daretti, Scrap Savant|0.0631
+Insurrection|0.0635
+Ogre Battledriver|0.0657
+Spinerock Knoll|0.0663
+Balefire Dragon|0.0668
+Reverberate|0.0684
+Lightning Bolt|0.069
+Impact Tremors|0.0692
+Hammer of Purphoros|0.07
+Inferno Titan|0.0706
+Zealous Conscripts|0.0766
+Comet Storm|0.0772
+Gamble|0.0794
+Anger|0.0803
+Kiki-Jiki, Mirror Breaker|0.0818
+Goblin Bombardment|0.083
+Hellkite Tyrant|0.0836
+Wheel of Fortune|0.0851
+Forgotten Cave|0.0926
+Vivid Crag|0.0933
+Great Furnace|0.167

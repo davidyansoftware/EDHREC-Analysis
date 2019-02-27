@@ -1,0 +1,248 @@
+POENTIAL CUTS
+Lathliss, Dragon Queen,0
+Combat Celebrant,0
+Sunbird's Invocation,0
+Goblin Rabblemaster,0
+Grenzo, Havoc Raiser,0
+Neheb, the Eternal,0
+Flameblast Dragon,0
+Pia and Kiran Nalaar,0
+Thundermaw Hellkite,0
+Dragonspeaker Shaman,0
+Warchief Giant,0
+Dire Fleet Daredevil,0
+Etali, Primal Storm,0
+Devil's Play,1394.86
+Moltensteel Dragon,1394.86
+Jokulhaups,1394.86
+Sneak Attack,2092.29
+Hoard-Smelter Dragon,2092.29
+Relentless Assault,2092.29
+Dragon Tempest,4184.58
+Chandra, Torch of Defiance,4184.58
+Malignus,4184.58
+Heartless Hidetsugu,4184.58
+Hanweir Garrison,4184.58
+Seize the Day,4184.58
+Scourge of the Throne,5579.44
+Chain Reaction,5579.44
+Bogardan Hellkite,5579.44
+Mizzix's Mastery,5579.44
+Godo, Bandit Warlord,5579.44
+Chandra, Flamecaller,5579.44
+Tyrant's Familiar,5579.44
+Savage Beating,5579.44
+Krenko, Mob Boss,5579.44
+Molten Primordial,5579.44
+Aggravated Assault,5579.44
+Outpost Siege,5579.44
+Hellkite Charger,6974.3
+Dragon Mage,6974.3
+Gratuitous Violence,6974.3
+Dragonmaster Outcast,6974.3
+Charmbreaker Devils,6974.3
+Feldon of the Third Path,6974.3
+Fire Diamond,6974.3
+Reiterate,6974.3
+Fervor,6974.3
+Siege-Gang Commander,8369.16
+Combustible Gearhulk,8369.16
+Dictate of the Twin Gods,8369.16
+Utvara Hellkite,8369.16
+Urabrask the Hidden,8369.16
+Gamble,9764.02
+Insurrection,9764.02
+Daretti, Scrap Savant,9764.02
+Wild Ricochet,9764.02
+Comet Storm,9764.02
+Goblin Welder,9764.02
+Ogre Battledriver,9764.02
+Reverberate,9764.02
+Balefire Dragon,11158.88
+Zealous Conscripts,11158.88
+Inferno Titan,11158.88
+Hellkite Tyrant,12553.74
+Wheel of Fortune,12553.74
+Anger,12553.74
+Kiki-Jiki, Mirror Breaker,12553.74
+Goblin Bombardment,12553.74
+Warstorm Surge,13948.6
+Faithless Looting,13948.6
+Hammer of Purphoros,16738.32
+Vandalblast,27897.2
+Purphoros, God of the Forge,29292.06
+Chaos Warp,30686.92
+Blasphemous Act,32081.78
+
+
+POTENTIAL ADDS
+Reforge the Soul,16738.32
+Mizzium Mortars,8369.16
+Archetype of Aggression,8369.16
+Impact Tremors,8369.16
+Past in Flames,8369.16
+Lightning Bolt,8369.16
+Wheel of Fate,6974.3
+Kazuul, Tyrant of the Cliffs,6974.3
+Guttersnipe,6974.3
+Great Furnace,6276.87
+Dualcaster Mage,5579.44
+Chandra's Ignition,5579.44
+World at War,5579.44
+Possibility Storm,5579.44
+Stranglehold,5579.44
+Beetleback Chief,5579.44
+Increasing Vengeance,5579.44
+Tormenting Voice,5579.44
+Volcanic Vision,5579.44
+Taurean Mauler,5579.44
+Scrap Mastery,5579.44
+Incendiary Command,5579.44
+Starstorm,5579.44
+Magus of the Wheel,5579.44
+Tempt with Vengeance,5579.44
+Goblin Matron,5579.44
+Young Pyromancer,5579.44
+Mogg War Marshal,5579.44
+Blood Moon,5579.44
+Dragon Fodder,5579.44
+Stalking Vengeance,5579.44
+Mana Echoes,4184.58
+Flameshadow Conjuring,4184.58
+Molten Psyche,4184.58
+Goblin Sharpshooter,4184.58
+Furnace of Rath,4184.58
+Hordeling Outburst,4184.58
+Seething Song,4184.58
+Pyromancer's Goggles,4184.58
+Krenko's Command,4184.58
+Akroma, Angel of Fury,4184.58
+Banefire,4184.58
+Berserkers' Onslaught,4184.58
+Vicious Shadows,4184.58
+Iron Myr,4184.58
+Trash for Treasure,4184.58
+Mana Geyser,4184.58
+Ruination,2092.29
+Word of Seizing,2092.29
+Earthquake,2092.29
+Goblin Warchief,2092.29
+Chancellor of the Forge,2092.29
+Empty the Warrens,2092.29
+Cathartic Reunion,2092.29
+Legion Loyalist,2092.29
+Hoarding Dragon,2092.29
+Price of Glory,2092.29
+Goblin Chieftain,2092.29
+Winds of Change,2092.29
+Koth of the Hammer,2092.29
+Red Sun's Zenith,2092.29
+Hamletback Goliath,2092.29
+Shattering Pulse,1394.86
+Brightstone Ritual,1394.86
+Fling,1394.86
+Mana Flare,1394.86
+Shattering Spree,1394.86
+Rage Reflection,1394.86
+Goblin Rally,1394.86
+Decree of Annihilation,1394.86
+Warp World,1394.86
+Red Elemental Blast,1394.86
+Pyrohemia,1394.86
+Bonfire of the Damned,1394.86
+Volcanic Offering,1394.86
+Temur Battle Rage,1394.86
+Magmaquake,1394.86
+Fork,1394.86
+War's Toll,1394.86
+Manabarbs,1394.86
+Rite of the Raging Storm,1394.86
+Sarkhan's Triumph,1394.86
+Mob Rule,1394.86
+Curse of Bloodletting,1394.86
+Chandra, Pyromaster,1394.86
+Act of Treason,1394.86
+Sulfuric Vortex,1394.86
+Obliterate,1394.86
+Crucible of Fire,1394.86
+Descent of the Dragons,1394.86
+Where Ancients Tread,1394.86
+Chandra, the Firebrand,1394.86
+Fireball,1394.86
+Repercussion,1394.86
+Fiery Confluence,1394.86
+Battle Hymn,1394.86
+Splinter Twin,1394.86
+Grab the Reins,1394.86
+Braid of Fire,1394.86
+Shared Animosity,1394.86
+Pyroblast,1394.86
+Sarkhan, the Dragonspeaker,1394.86
+Howl of the Horde,1394.86
+Breath of Fury,1394.86
+Boggart Shenanigans,697.43
+Wild Evocation,697.43
+Goblin Assault,697.43
+Fateful Showdown,697.43
+Crimson Wisps,697.43
+Gauntlet of Might,697.43
+Quest for the Goblin Lord,697.43
+Act of Aggression,697.43
+Lightning Strike,697.43
+Brute Force,697.43
+In the Web of War,697.43
+Tibalt, the Fiend-Blooded,697.43
+Chandra Ablaze,697.43
+Price of Progress,697.43
+Divergent Transformations,697.43
+Smash to Smithereens,697.43
+Into the Core,697.43
+Timecrafting,697.43
+Mindmoil,697.43
+Impact Resonance,697.43
+Magma Jet,697.43
+Incinerate,697.43
+Radiate,697.43
+Soul's Fire,697.43
+Fury Charm,697.43
+Grip of Chaos,697.43
+Smoke,697.43
+Massive Raid,697.43
+Commune with Lava,697.43
+Desperate Ritual,697.43
+Arcbond,697.43
+Confusion in the Ranks,697.43
+Chandra Nalaar,697.43
+Blood Mist,697.43
+Fall of the Titans,697.43
+Bosh, Iron Golem,697.43
+Titan's Strength,697.43
+Expedite,697.43
+Pyretic Ritual,697.43
+Fall of the Hammer,697.43
+Goblinslide,697.43
+Weldfast Monitor,0
+Goblin Replica,0
+Rage Extractor,0
+Chandra, Roaring Flame // Chandra, Roaring Flame,0
+Saberclaw Golem,0
+Sparring Collar,0
+Granite Shard,0
+Foriysian Totem,0
+Slash Panther,0
+Coal Golem,0
+Welder Automaton,0
+Heart of Ramos,0
+Chandra, Pyrogenius,0
+Fireforger's Puzzleknot,0
+Red Mana Battery,0
+Trigon of Rage,0
+Mox Ruby,0
+Bomat Courier,0
+Implement of Combustion,0
+Panic Spellbomb,0
+Spin Engine,0
+Vulshok Replica,0
+Immolating Souleater,0
+Hematite Golem,0
+Pyrite Spellbomb,0

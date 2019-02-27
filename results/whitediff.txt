@@ -1,0 +1,261 @@
+POENTIAL CUTS
+Luminate Primordial,0
+Selfless Spirit,0
+Divine Visitation,0
+Angel of Invention,0
+Act of Authority,0
+Geist-Honored Monk,0
+Archangel of Strife,0
+Lyra Dawnbringer,0
+Hour of Revelation,0
+Yosei, the Morning Star,0
+Cleansing Nova,0
+Archon of Justice,0
+Angelic Arbiter,0
+Wall of Omens,0
+Anointed Procession,0
+Teferi's Protection,0
+Faith's Fetters,1458.66
+Cataclysm,1458.66
+Gideon, Ally of Zendikar,2187.99
+Akroma's Vengeance,2917.32
+Restoration Angel,5834.64
+Silverblade Paladin,5834.64
+Baneslayer Angel,5834.64
+Recruiter of the Guard,5834.64
+Serra Avatar,5834.64
+Eldrazi Displacer,5834.64
+Council's Judgment,5834.64
+Hero of Bladehold,7293.3
+Fumigate,7293.3
+Archangel of Thune,7293.3
+Felidar Sovereign,7293.3
+Sunblast Angel,7293.3
+Serra Ascendant,7293.3
+Grasp of Fate,7293.3
+Emeria Shepherd,8751.96
+Weathered Wayfarer,8751.96
+Knight of the White Orchid,8751.96
+Stonehewer Giant,8751.96
+Armageddon,8751.96
+Rout,8751.96
+Iona, Shield of Emeria,8751.96
+Thalia, Heretic Cathar,8751.96
+Terminus,10210.62
+Angel of Serenity,10210.62
+Gift of Immortality,10210.62
+Darksteel Mutation,10210.62
+Luminarch Ascension,10210.62
+Banishing Light,11669.28
+Martial Coup,11669.28
+Mirror Entity,11669.28
+Stoneforge Mystic,13127.94
+Aura of Silence,13127.94
+Elspeth, Knight-Errant,13127.94
+True Conviction,14586.6
+Blind Obedience,14586.6
+Land Tax,14586.6
+Reveillark,14586.6
+Mother of Runes,16045.26
+Mentor of the Meek,16045.26
+Avacyn, Angel of Hope,17503.92
+Elesh Norn, Grand Cenobite,17503.92
+Karmic Guide,20421.24
+Day of Judgment,20421.24
+Grand Abolisher,20421.24
+Austere Command,20421.24
+Cathars' Crusade,21879.9
+Ghostly Prison,24797.22
+Elspeth, Sun's Champion,24797.22
+Oblivion Ring,26255.88
+Return to Dust,30631.86
+Wrath of God,39383.82
+Enlightened Tutor,42301.14
+Path to Exile,43759.8
+Sun Titan,45218.46
+Swords to Plowshares,68557.02
+
+
+POTENTIAL ADDS
+Sphere of Safety,16045.26
+Spear of Heliod,15315.93
+Heliod, God of the Sun,15315.93
+Oblation,11669.28
+Academy Rector,8751.96
+Windborn Muse,8751.96
+Open the Armory,8751.96
+Soul Warden,8751.96
+Aven Mindcensor,8751.96
+Norn's Annex,8751.96
+Fiend Hunter,8751.96
+Open the Vaults,8751.96
+Condemn,8751.96
+Steelshaper's Gift,8751.96
+Phyrexian Rebirth,7293.3
+Mesa Enchantress,7293.3
+Linvala, Keeper of Silence,7293.3
+Marshal's Anthem,7293.3
+Authority of the Consuls,7293.3
+Idyllic Tutor,7293.3
+Odric, Lunarch Marshal,7293.3
+Suture Priest,7293.3
+Ajani Steadfast,7293.3
+Karmic Justice,7293.3
+Dictate of Heliod,7293.3
+Angel of Jubilation,5834.64
+Intangible Virtue,5834.64
+Odric, Master Tactician,5834.64
+Citadel Siege,5834.64
+Ancient Den,5834.64
+Sigil of the Empty Throne,5834.64
+Planar Cleansing,5834.64
+Ethereal Armor,5834.64
+White Sun's Zenith,5834.64
+Akroma, Angel of Wrath,5834.64
+Archangel of Tithes,5834.64
+Bastion Protector,5834.64
+Brave the Sands,5834.64
+Rest in Peace,5834.64
+Angelic Skirmisher,5834.64
+Sigarda's Aid,5834.64
+Replenish,5834.64
+Soul's Attendant,5834.64
+Eerie Interlude,5834.64
+Spirit Mantle,5834.64
+Puresteel Paladin,5834.64
+Reya Dawnbringer,2917.32
+Archetype of Courage,2917.32
+Ajani, Caller of the Pride,2917.32
+Faith's Reward,2917.32
+Captain of the Watch,2917.32
+Indestructibility,2917.32
+Godsend,2917.32
+Disenchant,2917.32
+End Hostilities,2917.32
+Entreat the Angels,2187.99
+Stasis Snare,2187.99
+Revoke Existence,2187.99
+Martyr's Bond,2187.99
+Ethersworn Canonist,2187.99
+Battle Mastery,2187.99
+Secure the Wastes,2187.99
+Hour of Reckoning,2187.99
+Honor of the Pure,2187.99
+Greater Auramancy,2187.99
+Plea for Guidance,2187.99
+Mass Calcify,2187.99
+Rootborn Defenses,2187.99
+Nahiri, the Lithomancer,2187.99
+Nevermore,2187.99
+Spectra Ward,2187.99
+Winds of Rath,2187.99
+Shielded by Faith,2187.99
+Crib Swap,2187.99
+Comeuppance,2187.99
+Dispatch,2187.99
+Ajani Goldmane,2187.99
+Divine Reckoning,2187.99
+Prison Term,2187.99
+Starfield of Nyx,2187.99
+Marble Diamond,2187.99
+Aegis of the Gods,2187.99
+Decree of Justice,2187.99
+Elspeth Tirel,2187.99
+Tragic Arrogance,2187.99
+Storm Herd,2187.99
+Journey to Nowhere,2187.99
+Increasing Devotion,2187.99
+Unquestioned Authority,2187.99
+Nomads' Assembly,1458.66
+Planar Outburst,1458.66
+Collective Effort,1458.66
+Unexpectedly Absent,1458.66
+Ghostway,1458.66
+Fell the Mighty,1458.66
+Brave the Elements,1458.66
+Always Watching,1458.66
+Hallowed Burial,1458.66
+Eidolon of Rhetoric,1458.66
+Call the Gatewatch,1458.66
+Dispeller's Capsule,1458.66
+Beacon of Immortality,1458.66
+Sanctum Gargoyle,1458.66
+Gideon Jura,1458.66
+Scourglass,1458.66
+Oath of Gideon,1458.66
+Angelic Destiny,1458.66
+Fated Retribution,1458.66
+Eidolon of Countless Battles,1458.66
+Gideon, Champion of Justice,1458.66
+Deploy to the Front,1458.66
+Gift of Estates,1458.66
+Dawn Charm,1458.66
+Cloudshift,1458.66
+Catastrophe,1458.66
+Cataclysmic Gearhulk,1458.66
+Tithe,1458.66
+Three Dreams,1458.66
+Descend upon the Sinful,1458.66
+Valorous Stance,1458.66
+Silence,1458.66
+Erase,729.33
+Angel's Grace,729.33
+Safe Passage,729.33
+Entrapment Maneuver,729.33
+Lapse of Certainty,729.33
+Retether,729.33
+Make a Stand,729.33
+Congregate,729.33
+Gold Myr,729.33
+Pull from Eternity,729.33
+Banishing Stroke,729.33
+Conqueror's Pledge,729.33
+Fate Forgotten,729.33
+Deploy the Gatewatch,729.33
+Rebuff the Wicked,729.33
+Devout Invocation,729.33
+Raise the Alarm,729.33
+Second Sunrise,729.33
+Mana Tithe,729.33
+Sublime Exhalation,729.33
+Retribution of the Meek,729.33
+Celestial Flare,729.33
+Wing Shards,729.33
+Otherworldly Journey,729.33
+Gods Willing,729.33
+Riot Control,729.33
+Wave of Reckoning,729.33
+Devouring Light,729.33
+Benevolent Offering,729.33
+Apostle's Blessing,729.33
+Holy Day,729.33
+Peacewalker Colossus,0
+Sunbeam Spellbomb,0
+Bladed Sentinel,0
+Gideon, Battle-Forged // Gideon, Battle-Forged,0
+Cogworker's Puzzleknot,0
+Trigon of Mending,0
+Metallurgeon,0
+Origin Spellbomb,0
+Marble Chalice,0
+Soldier Replica,0
+Scepter of Dominance,0
+Pearl Shard,0
+Healer's Headdress,0
+Porcelain Legionnaire,0
+Glint Hawk Idol,0
+Blinding Souleater,0
+Implement of Improvement,0
+Gideon, Martial Paragon,0
+Aegis Automaton,0
+Titanium Golem,0
+Cathedral Membrane,0
+White Mana Battery,0
+Leonin Sun Standard,0
+Bastion Mastodon,0
+Court Homunculus,0
+Tooth of Ramos,0
+Thunder Totem,0
+Gideon of the Trials,0
+Mox Pearl,0
+Auriok Replica,0

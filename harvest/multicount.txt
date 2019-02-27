@@ -1,0 +1,270 @@
+Arlinn, Embraced by the Moon // Arlinn, Embraced by the Moon|0.0001
+Nicol Bolas, the Arisen // Nicol Bolas, the Arisen|0.0001
+Vraska, Regal Gorgon|0.0002
+Ral, Caller of Storms|0.0003
+Garruk, the Veil-Cursed // Garruk, the Veil-Cursed|0.0004
+Ral, Izzet Viceroy|0.0009
+Vraska, Golgari Queen|0.0011
+Angrath, Minotaur Pirate|0.0019
+Teferi, Timebender|0.0021
+Lord Windgrace|0.0024
+Saheeli, the Gifted|0.0025
+Aminatou, the Fateshifter|0.0034
+Estrid, the Masked|0.004
+Huatli, Dinosaur Knight|0.0068
+Angrath, the Flame-Chained|0.0071
+Huatli, Radiant Champion|0.0099
+Ajani, Valiant Protector|0.0101
+Huatli, Warrior Poet|0.012
+Vraska, Relic Seeker|0.0126
+Teferi, Hero of Dominaria|0.013
+Tezzeret, Master of Metal|0.0132
+Samut, the Tested|0.0134
+Tezzeret the Schemer|0.0136
+Flesh|0.0137
+March from the Tomb|0.0142
+Cut|0.0143
+Vigor Mortis|0.0148
+Pilfered Plans|0.0148
+Give|0.015
+Brilliant Ultimatum|0.0151
+Nicol Bolas, the Deceiver|0.0151
+Biomantic Mastery|0.0153
+Channel the Suns|0.0154
+Razia's Purification|0.0155
+Sen Triplets|0.0162
+Stitch in Time|0.0163
+Skull Rend|0.0165
+Fractured Identity|0.0167
+Selesnya Cluestone|0.0169
+Unscythe, Killer of Kings|0.0169
+Gruul Cluestone|0.0176
+Sphinx Sovereign|0.0179
+Obelisk of Naya|0.0179
+Golgari Cluestone|0.0185
+Tidehollow Sculler|0.0186
+Golgari Keyrune|0.019
+Sarkhan the Mad|0.0209
+Torrent of Souls|0.0216
+Runes of the Deus|0.0217
+Silas Renn, Seeker Adept|0.0218
+Everlasting Torment|0.0222
+Behind the Scenes|0.0223
+Migratory Route|0.0224
+Lingering Souls|0.0225
+Immortal Servitude|0.0227
+Simic Keyrune|0.0227
+Garruk Relentless // Garruk, the Veil-Cursed|0.0242
+Bounty of the Luxa|0.0243
+Golgari Germination|0.0244
+Spider Spawning|0.0245
+Trace of Abundance|0.0248
+Mystical Teachings|0.0249
+Bituminous Blast|0.0254
+Enchanted Evening|0.0254
+Underworld Coinsmith|0.0255
+Etched Monstrosity|0.0259
+Sultai Banner|0.0261
+Talisman of Impulse|0.0262
+Talisman of Unity|0.0262
+Dueling Grounds|0.0264
+Spitting Image|0.0265
+Dimir Charm|0.0271
+Mind Funeral|0.0274
+Pharika, God of Affliction|0.0275
+Life|0.0281
+Mardu Charm|0.0282
+Izzet Keyrune|0.0284
+Savage Twister|0.0286
+Invoke the Firemind|0.0287
+Guided Passage|0.0288
+Mindswipe|0.0288
+Destructive Revelry|0.0289
+Violent Ultimatum|0.0289
+Rakdos Cluestone|0.0291
+Orzhov Keyrune|0.0292
+Rakdos Keyrune|0.0293
+Dimir Keyrune|0.0294
+Journey to Eternity // Atzal, Cave of Eternity|0.0295
+Boros Keyrune|0.0297
+Unlicensed Disintegration|0.0301
+Extract from Darkness|0.0305
+Glare of Subdual|0.0306
+Dimir Cluestone|0.0313
+Righteous Authority|0.0315
+Countersquall|0.0315
+Genju of the Realm|0.0317
+Rakdos's Return|0.0318
+Shardless Agent|0.0319
+Tezzeret, Agent of Bolas|0.0321
+Aurelia's Fury|0.0322
+Oath of Ajani|0.0326
+Gruul War Chant|0.0329
+Lightning Helix|0.0329
+Congregation at Dawn|0.033
+Soul Manipulation|0.0332
+Phyrexian Tyranny|0.0333
+Dark Intimations|0.0333
+Temur Banner|0.0333
+Prophetic Bolt|0.0333
+Ready|0.0335
+Waves of Aggression|0.0342
+Dromoka's Command|0.0343
+Havoc Festival|0.0347
+Abzan Banner|0.0349
+Obelisk of Jund|0.0349
+Ojutai's Command|0.035
+Daretti, Ingenious Iconoclast|0.0352
+Azorius Keyrune|0.0357
+Izzet Cluestone|0.0362
+Orim's Thunder|0.0363
+Signal the Clans|0.0363
+Steam Augury|0.0365
+Momentary Blink|0.0365
+Unflinching Courage|0.0372
+Azorius Cluestone|0.0372
+Necrogenesis|0.0372
+Treasured Find|0.0372
+Time Sieve|0.0373
+Enigma Sphinx|0.0374
+Nissa, Steward of Elements|0.0376
+Gaze of Granite|0.0382
+Filigree Angel|0.0384
+Growing Ranks|0.0385
+Death Grasp|0.0386
+Kaya, Ghost Assassin|0.0389
+Worm Harvest|0.0392
+Silumgar's Command|0.0393
+Bred for the Hunt|0.0394
+Psychic Strike|0.0397
+Wild Research|0.0399
+Azorius Charm|0.0402
+Memory Plunder|0.0408
+Dromar's Charm|0.0408
+Master Warcraft|0.0409
+Treacherous Terrain|0.0413
+Legion's Initiative|0.0418
+Perplex|0.0418
+Mage Slayer|0.042
+Orzhov Cluestone|0.0427
+Mardu Ascendancy|0.0428
+Phenax, God of Deception|0.0433
+Clan Defiance|0.0434
+Debtors' Knell|0.0438
+Behemoth Sledge|0.0442
+Temur Charm|0.0448
+Sundering Growth|0.0449
+Esper Charm|0.0451
+Armadillo Cloak|0.0462
+Grave Upheaval|0.0463
+Ajani Vengeant|0.0463
+Ajani Unyielding|0.0466
+Forbidden Alchemy|0.0467
+Kolaghan's Command|0.047
+Jeskai Charm|0.0472
+Simic Charm|0.0474
+Boros Cluestone|0.0475
+Spiteful Visions|0.0477
+Firemind's Foresight|0.0481
+Obzedat's Aid|0.0482
+Arlinn Kord // Arlinn, Embraced by the Moon|0.049
+Saheeli Rai|0.0492
+Sarkhan Vol|0.0492
+Epic Experiment|0.0495
+Sphinx Summoner|0.05
+Aura Mutation|0.0501
+Unmake|0.0503
+Grixis Charm|0.0504
+Unexpected Results|0.0506
+Slave of Bolas|0.051
+Jund Charm|0.0524
+Sorin, Solemn Visitor|0.0526
+Lavalanche|0.0542
+Mayael's Aria|0.0542
+Obelisk of Esper|0.0551
+Collective Blessing|0.0553
+Finest Hour|0.0554
+Nyx Weaver|0.0556
+Titanic Ultimatum|0.0557
+Ephara, God of the Polis|0.0559
+Mind Grind|0.0574
+Selesnya Charm|0.0579
+Shield of the Oversoul|0.058
+Mardu Banner|0.0587
+Ancient Excavation|0.0594
+Deflecting Palm|0.0597
+Abzan Ascendancy|0.06
+Jeskai Banner|0.0608
+Deathreap Ritual|0.0609
+Ashiok, Nightmare Weaver|0.0621
+Garruk, Apex Predator|0.0627
+Nicol Bolas, God-Pharaoh|0.0629
+Nahiri, the Harbinger|0.0633
+Voidslime|0.0637
+Teysa, Envoy of Ghosts|0.064
+Ayli, Eternal Pilgrim|0.0642
+Winding Constrictor|0.0646
+Dragon Broodmother|0.0651
+Bring to Light|0.066
+Dovin Baan|0.0663
+Sire of Stagnation|0.0669
+Artifact Mutation|0.0669
+Selvala, Explorer Returned|0.0672
+Ashen Rider|0.0675
+Diregraf Captain|0.0675
+Shaman of the Great Hunt|0.0678
+Creakwood Liege|0.0688
+Hanna, Ship's Navigator|0.0698
+Dauntless Escort|0.0701
+Murkfiend Liege|0.0701
+Dragonlord Atarka|0.0703
+Kiora, Master of the Depths|0.0707
+Legacy Weapon|0.0709
+Divinity of Pride|0.0712
+Altered Ego|0.0728
+Fevered Visions|0.0734
+Ral Zarek|0.0735
+Sultai Ascendancy|0.0737
+Bloodbraid Elf|0.0741
+Jeskai Ascendancy|0.0755
+Juniper Order Ranger|0.0758
+Obelisk of Grixis|0.076
+Sorin, Lord of Innistrad|0.0761
+Maelstrom Archangel|0.0769
+Maelstrom Pulse|0.0772
+Deadbridge Chant|0.0787
+Vizkopa Guildmage|0.079
+Master of Cruelties|0.0791
+Sliver Queen|0.0791
+Brutal Hordechief|0.0801
+Noble Hierarch|0.0804
+Mazirek, Kraul Death Priest|0.0808
+Privileged Position|0.081
+Rashmi, Eternities Crafter|0.0815
+Intet, the Dreamer|0.0823
+Unburial Rites|0.0834
+Kambal, Consul of Allocation|0.085
+Sigarda, Host of Herons|0.0851
+Omnath, Locus of Rage|0.0852
+Sliver Legion|0.0858
+Ajani, Mentor of Heroes|0.0868
+Vorel of the Hull Clade|0.0869
+Domri Rade|0.0879
+Havengul Lich|0.0881
+Golgari Charm|0.0884
+Teneb, the Harvester|0.0893
+Mystic Retrieval|0.0902
+Izzet Charm|0.091
+Grisly Salvage|0.0912
+Ankle Shanker|0.0936
+Ghave, Guru of Spores|0.0945
+Chromanticore|0.131
+Mogis, God of Slaughter|0.1332
+Etherium-Horn Sorcerer|0.135
+Keranos, God of Storms|0.137
+Athreos, God of Passage|0.143
+Ramos, Dragon Engine|0.1464
+Karametra, God of Harvests|0.1558
+Ethersworn Adjudicator|0.174
+Magister Sphinx|0.1858
+Sphinx of the Steel Wind|0.1898

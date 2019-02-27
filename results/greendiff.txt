@@ -1,0 +1,237 @@
+POENTIAL CUTS
+Hydra Omnivore,0
+Satyr Wayfinder,0
+Joraga Treespeaker,0
+Selvala, Heart of the Wilds,0
+Growing Rites of Itlimoc,0
+Surrak, the Hunt Caller,0
+Ghalta, Primal Hunger,0
+Lifecrafter's Bestiary,2242.47
+Selvala's Stampede,2242.47
+Heroic Intervention,2242.47
+Search for Tomorrow,2242.47
+Earthcraft,2242.47
+Rishkar's Expertise,2989.96
+Pathbreaker Ibex,7474.9
+Eldritch Evolution,7474.9
+Bloom Tender,7474.9
+Greater Good,8969.88
+Freyalise, Llanowar's Fury,8969.88
+Awakening Zone,8969.88
+Garruk, Primal Hunter,10464.86
+Survival of the Fittest,10464.86
+Thunderfoot Baloth,10464.86
+Cryptolith Rite,10464.86
+Song of the Dryads,10464.86
+Regrowth,11959.84
+Woodfall Primus,11959.84
+Shamanic Revelation,11959.84
+Overwhelming Stampede,11959.84
+Fauna Shaman,11959.84
+Vorinclex, Voice of Hunger,11959.84
+Greenwarden of Murasa,11959.84
+Rampaging Baloths,13454.82
+Life from the Loam,13454.82
+Bane of Progress,13454.82
+Soul of the Harvest,13454.82
+Tempt with Discovery,13454.82
+Zendikar Resurgent,13454.82
+Mycoloth,13454.82
+Harrow,14949.8
+Farhaven Elf,14949.8
+Genesis Wave,14949.8
+Garruk Wildspeaker,16444.78
+Yavimaya Elder,16444.78
+Seedborn Muse,16444.78
+Tooth and Nail,16444.78
+Parallel Lives,17939.76
+Asceticism,17939.76
+Craterhoof Behemoth,17939.76
+Burgeoning,17939.76
+Birthing Pod,17939.76
+Beastmaster Ascension,19434.74
+Doubling Season,19434.74
+Chord of Calling,19434.74
+Harmonize,19434.74
+Skyshroud Claim,20929.72
+Terastodon,22424.7
+Llanowar Elves,22424.7
+Farseek,23919.68
+Rampant Growth,23919.68
+Worldly Tutor,23919.68
+Wood Elves,26909.64
+Oracle of Mul Daya,28404.62
+Green Sun's Zenith,29899.6
+Explosive Vegetation,31394.58
+Reclamation Sage,31394.58
+Avenger of Zendikar,32889.56
+Sylvan Library,32889.56
+Birds of Paradise,35879.52
+Krosan Grip,38869.48
+Acidic Slime,40364.46
+Beast Within,43354.42
+Sakura-Tribe Elder,49334.34
+Kodama's Reach,53819.28
+Cultivate,56809.24
+Eternal Witness,67274.1
+
+
+POTENTIAL ADDS
+Courser of Kruphix,24667.17
+Elvish Mystic,22424.7
+Exploration,19434.74
+Bow of Nylea,17939.76
+Nylea, God of the Hunt,17939.76
+Scavenging Ooze,14949.8
+Nature's Lore,14949.8
+Archetype of Endurance,13454.82
+Praetor's Counsel,13454.82
+Champion of Lambholt,13454.82
+Forgotten Ancient,11959.84
+Fyndhorn Elves,11959.84
+Hardened Scales,11959.84
+Crop Rotation,11959.84
+Arbor Elf,11959.84
+Boundless Realms,10464.86
+Fierce Empath,10464.86
+Hornet Queen,10464.86
+Gyre Sage,10464.86
+Kalonian Hydra,10464.86
+Sylvan Scrying,10464.86
+Genesis Hydra,8969.88
+Triumph of the Hordes,8969.88
+Nature's Claim,8969.88
+Rancor,8969.88
+Elvish Visionary,8969.88
+Managorger Hydra,8969.88
+Sylvan Caryatid,8969.88
+Evolutionary Leap,8969.88
+Mana Reflection,8969.88
+Priest of Titania,8969.88
+Rites of Flourishing,8969.88
+Nissa, Vastwood Seer // Nissa, Sage Animist,7474.9
+Seasons Past,7474.9
+Lurking Predators,7474.9
+Nissa, Voice of Zendikar,7474.9
+Lotus Cobra,7474.9
+Somberwald Sage,7474.9
+Dryad Arbor,6727.41
+Naturalize,3737.45
+Primal Command,3737.45
+Fertilid,3737.45
+Nissa's Pilgrimage,3737.45
+Explore,3737.45
+Primal Vigor,3737.45
+Overrun,2989.96
+Bear Umbra,2989.96
+Natural Order,2989.96
+From Beyond,2989.96
+Frontier Siege,2989.96
+Creeping Renaissance,2989.96
+Traverse the Ulvenwald,2989.96
+Garruk, Caller of Beasts,2989.96
+Elemental Bond,2989.96
+Inspiring Call,2989.96
+Defense of the Heart,2989.96
+Second Harvest,2989.96
+Splendid Reclamation,2989.96
+Nissa, Vital Force,2989.96
+Arachnogenesis,2989.96
+Fecundity,2989.96
+Verdant Confluence,2242.47
+Death's Presence,2242.47
+Momentous Fall,2242.47
+Ranger's Path,2242.47
+Eidolon of Blossoms,2242.47
+Abundance,2242.47
+Collective Voyage,2242.47
+Descendants' Path,2242.47
+Primal Growth,2242.47
+Zendikar's Roil,2242.47
+Far Wanderings,2242.47
+Perilous Forays,2242.47
+Primeval Bounty,2242.47
+Nissa's Renewal,2242.47
+Noxious Revival,2242.47
+Animist's Awakening,2242.47
+Nissa, Worldwaker,2242.47
+Prismatic Omen,2242.47
+Concordant Crossroads,2242.47
+Life's Legacy,2242.47
+See the Unwritten,2242.47
+Khalni Heart Expedition,2242.47
+Carpet of Flowers,2242.47
+Constant Mists,2242.47
+Fog,2242.47
+Solidarity of Heroes,2242.47
+Reclaim,1494.98
+Fresh Meat,1494.98
+Wave of Vitriol,1494.98
+Tree of Tales,1494.98
+Oath of Nissa,1494.98
+Seek the Horizon,1494.98
+Lignify,1494.98
+Dictate of Karametra,1494.98
+Realms Uncharted,1494.98
+Primal Surge,1494.98
+Journey of Discovery,1494.98
+Mulch,1494.98
+Collective Unconscious,1494.98
+Mirri's Guile,1494.98
+Wild Growth,1494.98
+Enchantress's Presence,1494.98
+Cobra Trap,747.49
+Invigorate,747.49
+Sprouting Vines,747.49
+Vines of Vastwood,747.49
+Strength of the Tajuru,747.49
+Squall Line,747.49
+Savage Summoning,747.49
+Summoner's Pact,747.49
+Druid's Deliverance,747.49
+Hunter's Insight,747.49
+Grapple with the Past,747.49
+Vitalize,747.49
+Tribute to the Wild,747.49
+Berserk,747.49
+Benefactor's Draught,747.49
+Deglamer,747.49
+Copper Myr,747.49
+Moss Diamond,747.49
+Evolution Charm,747.49
+Giant Growth,747.49
+Natural Connection,747.49
+Sylvok Replica,747.49
+Slice in Twain,747.49
+Reach of Branches,747.49
+Nissa Revane,747.49
+Pulse of Murasa,747.49
+Moment's Peace,747.49
+Verdurous Gearhulk,747.49
+Sprout Swarm,747.49
+Natural State,747.49
+Tower Defense,747.49
+Sudden Reclamation,747.49
+Back to Nature,747.49
+Lifespark Spellbomb,0
+Weatherseed Totem,0
+Horn of Ramos,0
+Narnam Cobra,0
+Trigon of Infestation,0
+Nissa, Nature's Artisan,0
+Malachite Golem,0
+Woodweaver's Puzzleknot,0
+Green Mana Battery,0
+Nissa, Sage Animist // Nissa, Sage Animist,0
+Elf Replica,0
+Horned Helm,0
+Implement of Ferocity,0
+Mox Emerald,0
+Tangleroot,0
+Verdant Automaton,0
+Horizon Spellbomb,0
+Heartwood Shard,0
+Insatiable Souleater,0
+Thundering Tanadon,0
+Tangle Hulk,0
+Wall of Tanglecord,0

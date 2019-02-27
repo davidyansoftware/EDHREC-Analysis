@@ -1,0 +1,311 @@
+Jiang Yanggu|0
+Malachite Golem|0
+Insatiable Souleater|0.0001
+Tangle Hulk|0.0001
+Itlimoc, Cradle of the Sun // Itlimoc, Cradle of the Sun|0.0001
+Mox Emerald|0.0001
+Heartwood Shard|0.0001
+Vivien of the Arkbow|0.0003
+Verdant Automaton|0.0003
+Thundering Tanadon|0.0003
+Green Mana Battery|0.0003
+Elf Replica|0.0006
+Tangleroot|0.0006
+Lifespark Spellbomb|0.0007
+Horn of Ramos|0.0007
+Nissa, Sage Animist // Nissa, Sage Animist|0.0007
+Narnam Cobra|0.0009
+Timberland Ruins|0.001
+Heart of Yavimaya|0.001
+Horned Helm|0.0011
+Woodweaver's Puzzleknot|0.0013
+Implement of Ferocity|0.0013
+Weatherseed Totem|0.0016
+Centaur Garden|0.0016
+Hollow Trees|0.0019
+Rushwood Grove|0.002
+Trigon of Infestation|0.0023
+Vivien Reid|0.0025
+Nissa, Genesis Mage|0.0026
+Turntimber Grove|0.0031
+Memorial to Unity|0.0037
+Nissa, Nature's Artisan|0.004
+Horizon Spellbomb|0.0047
+Wall of Tanglecord|0.0053
+Hashep Oasis|0.0054
+Copper Myr|0.0055
+Moonmist|0.0059
+Sapseep Forest|0.0059
+Unravel the Aether|0.0063
+Savage Summoning|0.0063
+Early Harvest|0.0063
+Become Immense|0.0064
+Reach of Branches|0.0064
+Cobra Trap|0.0065
+Sudden Reclamation|0.0067
+Squall Line|0.0068
+Relic Crush|0.0069
+Autumn's Veil|0.0069
+Strength of the Tajuru|0.0071
+Natural Connection|0.0074
+Hickory Woodlot|0.0074
+Deglamer|0.0075
+Invigorate|0.0075
+Blossoming Defense|0.0075
+Pulse of Murasa|0.0075
+Back to Nature|0.0076
+Giant Growth|0.0076
+Natural State|0.0077
+Slice in Twain|0.0078
+Moment's Peace|0.0079
+Vitalize|0.008
+Sylvok Replica|0.0081
+Nissa Revane|0.0083
+Moss Diamond|0.0084
+Evolution Charm|0.0084
+Sprouting Vines|0.0095
+Pendelhaven|0.0096
+Tower Defense|0.0101
+Tribute to the Wild|0.0108
+Peregrination|0.0109
+Gaea's Blessing|0.0109
+Sylvan Tutor|0.011
+Hunting Wilds|0.011
+Havenwood Battleground|0.011
+Commune with the Gods|0.011
+Grow from the Ashes|0.011
+Bramblecrush|0.0119
+Gelatinous Genesis|0.012
+Desert Twister|0.0123
+Vines of Vastwood|0.0125
+Squirrel Nest|0.0126
+Three Visits|0.0126
+Seal of Primordium|0.0127
+Berserk|0.0128
+Time of Need|0.013
+Spidersilk Armor|0.0132
+Kindred Summons|0.0132
+Druid's Deliverance|0.0135
+Fertile Thicket|0.0136
+Hunter's Prowess|0.0137
+Desert of the Indomitable|0.0139
+Fungal Sprouting|0.014
+Benefactor's Draught|0.0141
+Grapple with the Past|0.0141
+Reap and Sow|0.0141
+Fresh Meat|0.0144
+Sprout Swarm|0.0144
+Food Chain|0.0147
+Overgrowth|0.0148
+Jungle Basin|0.0148
+Hunter's Insight|0.0148
+Elvish Promenade|0.0152
+Druids' Repository|0.0153
+Heartbeat of Spring|0.0156
+Summoner's Pact|0.0157
+Rude Awakening|0.0159
+The Great Aurora|0.0167
+Hour of Promise|0.0167
+Seek the Horizon|0.0169
+Ezuri's Predation|0.017
+Reclaim|0.0171
+Ancestral Mask|0.0172
+Traverse the Outlands|0.0174
+Quest for Renewal|0.0176
+Vernal Bloom|0.0177
+Increasing Savagery|0.0177
+Wave of Vitriol|0.0178
+Into the Wilds|0.0179
+Wildest Dreams|0.018
+Verdurous Gearhulk|0.0182
+Assault Formation|0.0182
+Nature's Will|0.0185
+Retreat to Kazandu|0.0187
+Scapeshift|0.0187
+Journey of Discovery|0.0189
+Wild Pair|0.0189
+Collective Unconscious|0.0192
+Pattern of Rebirth|0.0194
+Helix Pinnacle|0.0194
+Snake Umbra|0.0196
+Sylvan Offering|0.02
+Okina, Temple to the Grandfathers|0.0206
+Mulch|0.0209
+Fertile Ground|0.0213
+Primal Surge|0.0222
+Treetop Village|0.0224
+Soul's Majesty|0.0229
+Mirri's Guile|0.0231
+Fog|0.0237
+Harvest Season|0.0238
+Dictate of Karametra|0.0239
+Realms Uncharted|0.024
+Earthcraft|0.024
+Sandwurm Convergence|0.0241
+Lignify|0.0241
+Solidarity of Heroes|0.0248
+Oath of Nissa|0.0251
+Life's Legacy|0.0254
+Prismatic Omen|0.0255
+Primeval Bounty|0.0257
+Enchantress's Presence|0.0261
+Snow-Covered Forest|0.0263
+Perilous Forays|0.0263
+See the Unwritten|0.0263
+Utopia Sprawl|0.0279
+Descendants' Path|0.028
+Garruk's Packleader|0.0288
+Verduran Enchantress|0.0289
+Brawn|0.0292
+Selvala's Stampede|0.0293
+Kamahl, Fist of Krosa|0.0293
+Devoted Druid|0.0296
+Golgari Grave-Troll|0.0298
+Constant Mists|0.0298
+Death's Presence|0.0298
+Nissa's Renewal|0.0299
+Thragtusk|0.03
+Ranger's Path|0.0302
+Vizier of the Menagerie|0.0302
+Zendikar's Roil|0.0304
+Momentous Fall|0.0305
+Garruk, Caller of Beasts|0.0305
+Yisan, the Wanderer Bard|0.0306
+Collective Voyage|0.0308
+Verdant Confluence|0.031
+Nissa, Worldwaker|0.031
+Primal Growth|0.0315
+Rishkar, Peema Renegade|0.0316
+Concordant Crossroads|0.0316
+Search for Tomorrow|0.032
+Wirewood Lodge|0.032
+Carpet of Flowers|0.0324
+Imperious Perfect|0.0329
+Boreal Druid|0.0329
+Den Protector|0.0329
+Far Wanderings|0.0331
+Arachnogenesis|0.0335
+Selvala, Heart of the Wilds|0.0339
+Animist's Awakening|0.034
+Worldspine Wurm|0.0341
+Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun|0.0342
+Wild Growth|0.0345
+Khalni Heart Expedition|0.0347
+Essence Warden|0.0349
+Silklash Spider|0.0349
+Primordial Hydra|0.0351
+Natural Order|0.0355
+Traverse the Ulvenwald|0.0355
+Fecundity|0.0355
+Noxious Revival|0.0359
+Primordial Sage|0.0367
+Abundance|0.0369
+Frontier Siege|0.0375
+Defense of the Heart|0.0379
+Hydra Broodmaster|0.038
+Tree of Tales|0.038
+Hooded Hydra|0.038
+Ulvenwald Tracker|0.0382
+Wall of Blossoms|0.0384
+Temur Sabertooth|0.0387
+Creeping Renaissance|0.0387
+Skullwinder|0.039
+Elvish Piper|0.0396
+Woodland Bellower|0.0408
+Inspiring Call|0.0416
+Khalni Garden|0.0417
+Vigor|0.0418
+From Beyond|0.0422
+Primal Vigor|0.0432
+Karametra's Acolyte|0.0437
+Titania, Protector of Argoth|0.0438
+Regal Force|0.044
+Bear Umbra|0.0441
+Yeva, Nature's Herald|0.0447
+Llanowar Reborn|0.0447
+Joraga Treespeaker|0.045
+Caustic Caterpillar|0.045
+Shaman of Forgotten Ways|0.0451
+Ramunap Excavator|0.0456
+Ulvenwald Hydra|0.0461
+Yavimaya Hollow|0.0464
+Satyr Wayfinder|0.0464
+Lurking Predators|0.0466
+Overrun|0.0466
+Primal Command|0.0472
+Fertilid|0.0475
+Sylvan Safekeeper|0.0476
+Somberwald Sage|0.0476
+Pathbreaker Ibex|0.0482
+Nissa, Vital Force|0.0485
+Naturalize|0.0491
+Elvish Archdruid|0.0494
+Freyalise, Llanowar's Fury|0.0503
+Second Harvest|0.0508
+Elemental Bond|0.0509
+Bloom Tender|0.051
+Slippery Karst|0.0514
+Genesis Hydra|0.0519
+Nissa, Voice of Zendikar|0.0523
+Azusa, Lost but Seeking|0.0528
+Splendid Reclamation|0.0528
+Explore|0.0531
+Awakening Zone|0.0538
+Mana Reflection|0.0543
+Nissa's Pilgrimage|0.0545
+Lotus Cobra|0.0556
+Seasons Past|0.056
+Rancor|0.0567
+Managorger Hydra|0.0571
+Garruk, Primal Hunter|0.0575
+Tireless Tracker|0.058
+Nissa, Vastwood Seer // Nissa, Sage Animist|0.0586
+Archetype of Endurance|0.0596
+Kalonian Hydra|0.0598
+Evolutionary Leap|0.0602
+Greater Good|0.0605
+Eldritch Evolution|0.0614
+Survival of the Fittest|0.0617
+Rites of Flourishing|0.0624
+Sylvan Caryatid|0.063
+Gyre Sage|0.0635
+Elvish Visionary|0.0638
+Priest of Titania|0.0638
+Boundless Realms|0.0641
+Hornet Queen|0.0645
+Gaea's Cradle|0.0649
+Triumph of the Hordes|0.0655
+Thunderfoot Baloth|0.0657
+Woodfall Primus|0.0659
+Fierce Empath|0.0695
+Nature's Claim|0.0718
+Heroic Intervention|0.0719
+Lifecrafter's Bestiary|0.0726
+Fauna Shaman|0.0726
+Song of the Dryads|0.0726
+Bow of Nylea|0.0733
+Eidolon of Blossoms|0.0744
+Sylvan Scrying|0.0749
+Greenwarden of Murasa|0.0754
+Nylea, God of the Hunt|0.0762
+Vorinclex, Voice of Hunger|0.0762
+Hardened Scales|0.0797
+Overwhelming Stampede|0.08
+Praetor's Counsel|0.0802
+Regrowth|0.081
+Forgotten Ancient|0.0812
+Life from the Loam|0.0822
+Rishkar's Expertise|0.0861
+Cryptolith Rite|0.0863
+Tempt with Discovery|0.0875
+Champion of Lambholt|0.0878
+Bane of Progress|0.0881
+Genesis Wave|0.0886
+Crop Rotation|0.0893
+Mycoloth|0.0901
+Arbor Elf|0.092
+Soul of the Harvest|0.0924
+Shamanic Revelation|0.0925
+Rampaging Baloths|0.0936
+Garruk Wildspeaker|0.0939
+Dryad Arbor|0.178

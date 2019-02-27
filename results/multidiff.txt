@@ -1,0 +1,277 @@
+POENTIAL CUTS
+Bladewing the Risen,0
+Dragonlord Silumgar,0
+Assassin's Trophy,0
+Underrealm Lich,0
+Thousand-Year Storm,0
+Kolaghan, the Storm's Fury,0
+Savage Ventmaw,2804.04
+Ral Zarek,3105.99
+Talisman of Progress,3267
+Deadbridge Chant,3322.08
+Talisman of Indulgence,3381.6
+Sylvan Reclamation,3417.3
+Unburial Rites,3418.92
+Sorin, Grim Nemesis,3418.92
+Dack Fayden,3451.1
+Mystic Retrieval,3451.1
+Atarka, World Render,6231.2
+Dragonlord Dromoka,6834.6
+Qasali Pridemage,6834.6
+Wear // Tear,7394.16
+Narset Transcendent,7986
+Edric, Spymaster of Trest,8749.44
+Trygon Predator,8749.44
+Talisman of Dominance,8857.86
+Consuming Aberration,8857.86
+Jarad's Orders,8858.88
+Hull Breach,9346.8
+Decimate,9346.8
+Lim-Dûl's Vault,9663.12
+Xenagos, the Reveler,9969.92
+Dreadbore,10144.8
+Sphinx's Revelation,10164
+Counterflux,10353.3
+Assemble the Legion,10475.06
+Mystic Snake,10936.8
+Progenitor Mimic,11665.92
+Gisela, Blade of Goldnight,13555.96
+Venser, the Sojourner,13794
+Coiling Oracle,15311.52
+Terminate,16231.68
+Aura Shards,17086.5
+Boros Charm,17253.04
+Iroas, God of Victory,17561.13
+Baleful Strix,18118.35
+Mirari's Wake,19820.34
+Anguished Unmaking,21273.28
+Merciless Eviction,22033.04
+Utter End,22033.04
+Supreme Verdict,23958
+Putrefy,25100.16
+
+
+POTENTIAL ADDS
+Orzhov Signet,25072.08
+Dimir Signet,24963.06
+Izzet Signet,24157.7
+Rakdos Signet,22994.88
+Simic Signet,21144.48
+Azorius Signet,21054
+Boros Signet,20333.94
+Golgari Signet,19194.24
+Mortify,18994
+Xenagos, God of Revels,17758.92
+Deathrite Shaman,14026.56
+Prime Speaker Zegana,13124.16
+Selesnya Signet,12985.74
+Gruul Signet,12462.4
+Kruphix, God of Horizons,12030.48
+Aurelia, the Warleader,11707.42
+Detention Sphere,10890
+Vindicate,10636.64
+Jarad, Golgari Lich Lord,10335.36
+Vraska the Unseen,10335.36
+Render Silent,10164
+Corpsejack Menace,9597.12
+Eladamri's Call,9568.44
+Fathom Mage,9478.56
+Rakdos Charm,9468.48
+Sunforger,9242.7
+Sharuum the Hegemon,9189.9
+Fires of Yavimaya,8723.68
+Notion Thief,8052.6
+Whispering Madness,8052.6
+Kiora, the Crashing Wave,8020.32
+Master Biomancer,8020.32
+Nicol Bolas, Planeswalker,7950.6
+Niv-Mizzet, the Firemind,7592.42
+Avacyn's Pilgrim,7518.06
+Sterling Grove,7518.06
+Pernicious Deed,7382.4
+Plasm Capture,7291.2
+Mina and Denn, Wildborn,6854.32
+Ajani, Mentor of Heroes,6834.6
+Sphinx of the Steel Wind,6739.26
+Magister Sphinx,6739.26
+Crackling Doom,6601.36
+Ethersworn Adjudicator,6126.6
+Tamiyo, Field Researcher,6066.62
+Temur Ascendancy,5939.28
+Karametra, God of Harvests,5467.68
+Maelstrom Wanderer,5279.36
+Abzan Charm,5125.4
+Sultai Charm,5046.6
+Villainous Wealth,5046.6
+Wargate,4996.04
+Thopter Foundry,4901.28
+Rattleclaw Mystic,4619.44
+Cruel Ultimatum,4543.2
+Duneblast,4393.2
+Naya Charm,4133.36
+Bant Charm,3925.46
+Ankle Shanker,3821.84
+Debt to the Deathless,3798.8
+Crosis's Charm,3786
+Abrupt Decay,3691.2
+Ghave, Guru of Spores,3661
+Urban Evolution,3645.6
+Steel of the Godhead,3630
+Sarkhan Unbroken,3629.56
+Surrak Dragonclaw,3299.6
+Kiora's Follower,3281.04
+Vorel of the Hull Clade,3281.04
+Prophet of Kruphix,3281.04
+Domri Rade,3115.6
+Goblin Electromancer,3105.99
+Sigarda, Host of Herons,3075.57
+Privileged Position,3075.57
+Master of Cruelties,3043.44
+Sorin, Lord of Innistrad,3039.04
+Athreos, God of Passage,3039.04
+Grisly Salvage,2952.96
+Golgari Charm,2952.96
+Elves of Deep Shadow,2952.96
+Maelstrom Pulse,2952.96
+Voidslime,2916.48
+Ashiok, Nightmare Weaver,2818.41
+Juniper Order Ranger,2733.84
+Garruk, Apex Predator,2583.84
+Kiora, Master of the Depths,2551.92
+Mind Grind,2415.78
+Sphinx Summoner,2415.78
+Etherium-Horn Sorcerer,2415.77
+Izzet Charm,2415.77
+Keranos, God of Storms,2415.77
+Mogis, God of Slaughter,2367.12
+Maelstrom Nexus,2352.64
+Unmake,2279.28
+Obzedat's Aid,2279.28
+Deathreap Ritual,2214.72
+Bring to Light,2187.36
+Artifact Mutation,2180.92
+Ephara, God of the Polis,2178
+Dovin Baan,2178
+Nahiri, the Harbinger,2156.63
+Fevered Visions,2070.66
+Collective Blessing,2050.38
+Shield of the Oversoul,2050.38
+Selesnya Charm,2050.38
+Ancient Excavation,2013.15
+Conflux,1911.52
+Sliver Hivelord,1911.52
+Debtors' Knell,1899.4
+Sorin, Solemn Visitor,1899.4
+Sarkhan Vol,1869.36
+Ajani Vengeant,1848.54
+Deflecting Palm,1848.54
+Nyx Weaver,1845.6
+Simic Charm,1822.8
+Unexpected Results,1822.8
+Filigree Angel,1815
+Epic Experiment,1725.55
+Firemind's Foresight,1725.55
+Armadillo Cloak,1708.65
+Aura Mutation,1708.65
+Spiteful Visions,1690.8
+Time Sieve,1610.52
+Phenax, God of Deception,1610.52
+Forbidden Alchemy,1610.52
+Psychic Strike,1610.52
+Tezzeret, Agent of Bolas,1610.52
+Perplex,1610.52
+Arlinn Kord // Arlinn, Embraced by the Moon,1557.8
+Clan Defiance,1557.8
+Mage Slayer,1557.8
+Boros Cluestone,1540.45
+Legion's Initiative,1540.45
+Kaya, Ghost Assassin,1519.52
+Death Grasp,1519.52
+Orzhov Cluestone,1519.52
+Obelisk of Grixis,1514.4
+Gaze of Granite,1476.48
+Treasured Find,1476.48
+Sliver Legion,1470.4
+Bred for the Hunt,1458.24
+Azorius Keyrune,1452
+Azorius Cluestone,1452
+Brutal Hordechief,1389.76
+Steam Augury,1380.44
+Saheeli Rai,1380.44
+Prophetic Bolt,1380.44
+Unflinching Courage,1366.92
+Growing Ranks,1366.92
+Sundering Growth,1366.92
+Sultai Ascendancy,1358.7
+Daretti, Ingenious Iconoclast,1352.64
+Grave Upheaval,1352.64
+Havoc Festival,1352.64
+Kolaghan's Command,1352.64
+Rakdos's Return,1352.64
+Treacherous Terrain,1246.24
+Signal the Clans,1246.24
+Waves of Aggression,1232.36
+Master Warcraft,1232.36
+Jeskai Ascendancy,1229.6
+Obelisk of Esper,1225.32
+Extract from Darkness,1207.89
+Dimir Keyrune,1207.89
+Mind Funeral,1207.89
+Orzhov Keyrune,1139.64
+Worm Harvest,1107.36
+Spider Spawning,1107.36
+Necrogenesis,1107.36
+Life // Death,1107.36
+Garruk Relentless // Garruk, the Veil-Cursed,1107.36
+Abzan Ascendancy,1098.3
+Spitting Image,1093.68
+Shardless Agent,1093.68
+Righteous Authority,1089
+Finest Hour,1070.58
+Mardu Banner,1042.32
+Invoke the Firemind,1035.33
+Izzet Cluestone,1035.33
+Ajani Unyielding,1025.19
+Glare of Subdual,1025.19
+Behemoth Sledge,1025.19
+Rakdos Keyrune,1014.48
+Grixis Charm,946.5
+Slave of Bolas,946.5
+Gruul War Chant,934.68
+Savage Twister,934.68
+Boros Keyrune,924.27
+Jeskai Banner,922.2
+Titanic Ultimatum,885.72
+Mardu Ascendancy,868.6
+Enigma Sphinx,816.88
+Dromar's Charm,816.88
+Jeskai Charm,768.5
+Immortal Servitude,759.76
+Lingering Souls,759.76
+Lavalanche,757.9
+Phyrexian Tyranny,757.2
+Mayael's Aria,738.1
+Sliver Queen,735.2
+Abzan Banner,732.2
+Migratory Route,726
+Sarkhan the Mad,676.32
+Torrent of Souls,676.32
+Door to Nothingness,661.68
+Temur Charm,659.92
+Wild Research,614.8
+Jund Charm,606.32
+Obelisk of Jund,606.32
+Legacy Weapon,588.16
+Fist of Suns,514.64
+Guided Passage,494.94
+Temur Banner,494.94
+Violent Ultimatum,454.74
+Chromanticore,441.12
+Tezzeret, Master of Metal,402.63
+Tezzeret the Schemer,402.63
+Nissa, Steward of Elements,364.56
+Ajani, Valiant Protector,341.73
+Etched Monstrosity,220.56
+Genju of the Realm,220.56
+Arlinn, Embraced by the Moon // Arlinn, Embraced by the Moon,0
+Garruk, the Veil-Cursed // Garruk, the Veil-Cursed,0
